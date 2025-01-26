@@ -1,0 +1,41 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #f0f0f0, #c0c0c0);
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Navbar Styling */
+.navbar {
+  background-color: #333;
+  padding: 10px 20px;
+  position: relative;
+  z-index: 1000;
+}
+
+.navbar nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top:10px;
+  padding-bottom:10px;
+  margin-right:40px;
+}
+
+.navbar nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 16px;
+}
+
+
+
