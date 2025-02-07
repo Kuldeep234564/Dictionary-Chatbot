@@ -8,11 +8,14 @@ app = Flask(__name__)
 # Enable CORS
 CORS(app, resources={r"/*": {"origins": "http://localhost:8080"}})
 
-# Load patterns and responses from the JSON file
-with open("dataset.json", "r") as json_file:
+# Load dataset from the JSON file
+with open("dataset.json", "r",encoding="utf-8") as json_file:
     dataset = json.load(json_file)
-patterns = dataset["patterns"]
-responses = dataset["responses"]
+
+# Extract idioms, phrasal verbs, and words
+idioms = dataset["idioms"]
+phrasal_verbs = dataset["phrasal_verbs"]
+words = dataset["words"]
 
 @app.route('/chat', methods=['POST'])
 def chat():
@@ -23,12 +26,18 @@ def chat():
         if user_message is None:
             return jsonify({'error': 'Message is missing in the request'}), 400
 
-        # Match user message against patterns
-        for key, pattern in patterns.items():
-            if re.search(pattern, user_message, re.IGNORECASE):
-                return jsonify({'reply': responses[key]})
+        # Check for idioms and phrasal verbs
+        for data_dict in [idioms, phrasal_verbs]:
+            for key, definition in data_dict.items():
+                if re.search(r'\b' + re.escape(key) + r'\b', user_message, re.IGNORECASE):
+                    return jsonify({'reply': f'{key}: {definition}'})
 
-        # If no valid pattern is found
+        # Check for words
+        for word, definition in words.items():
+            if re.search(r'\b' + re.escape(word) + r'\b', user_message, re.IGNORECASE):
+                return jsonify({'reply': f'{word}: {definition}'})
+
+        # If no valid match is found
         return jsonify({'error': 'Sorry, I do not understand your query.'}), 400
 
     except Exception as e:
