@@ -4,75 +4,64 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background-color: #f9f9f9;
+  background-color:#333;
   color: #333;
 }
 
-header {
-  background-color: #007bff;
-  color: white;
-  padding: 15px 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: flex-end;
-}
-
-nav ul li {
-  margin-right: 60px;
-}
-
-nav a {
-  text-decoration: none;
-  color: white;
-  font-weight: bold;
-  transition: color 0.3s;
-}
-
-nav a:hover {
-  color: #ffd700;
-}
 
 .container {
-  max-width: 500px;
+  width: 100vh;
   margin: 40px auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #333;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display:flex;
+  align-items:center;
+  margin-top:25vh;
+  border:1px solid wheat;
+  
 }
 
 h2 {
   text-align: center;
-  color: #007bff;
+  color:wheat;
   margin-bottom: 20px;
+}
+h5{
+	color:wheat;
+}
+.heading2{
+	margin-left:120px;
+	
 }
 
 label {
   display: block;
   font-weight: bold;
   margin-bottom: 5px;
-  color: #555;
+  color:wheat;
+  margin-left:45px;
 }
 
 input[type="text"],
 input[type="name"],
 input[type="surname"] {
-  width: 96%;
+  width: 100%;
   padding: 10px;
   margin-bottom: 15px;
-  border: 1px solid #ddd;
+  border: 1px solid wheat;
   border-radius: 4px;
   font-size: 14px;
+  background:#333;
+  margin-left:45px;
+  color:wheat;
+  
+  
 }
 
 button {
-  width: 100%;
+  width: 40%;
   background-color: #007bff;
   color: white;
   padding: 12px;
@@ -82,44 +71,21 @@ button {
   font-weight: bold;
   cursor: pointer;
   transition: background-color 0.3s;
+  margin-left:200px;
 }
 
 button:hover {
   background-color: #0056b3;
 }
 
-footer {
-  background-color: #007bff;
-  color: white;
-  padding: 15px;
-  text-align: center;
-  font-size: 14px;
-  padding-bottom:135px
-}
-
-footer p {
-  margin: 5px 0;
-}
-
-@media (max-width: 600px) {
-  header,
-  footer {
-    text-align: center;
-  }
-
-  nav ul {
-    flex-direction: column;
-  }
-
-  nav ul li {
-    margin-bottom: 10px;
-  }
 
   .container {
     padding: 15px;
+    padding-top:80px;
+    padding-bottom:80px;
   }
 
   button {
     font-size: 14px;
+    color:wheat;
   }
-}
