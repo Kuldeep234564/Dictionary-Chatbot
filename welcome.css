@@ -25,6 +25,7 @@ body {
     background-color: #2d2d2d;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
     text-align: center;
+    padding-bottom:50px;
 }
 
 h2 {
@@ -47,8 +48,8 @@ input[type="text"] {
     border-radius: 5px;
     margin-right: 10px;
     font-size: 1em;
-    color: #1e1e1e;
-    background-color: #f5f5f5;
+    color: wheat;
+    background-color:#555;
 }
 
 input[type="text"]::placeholder {
@@ -81,3 +82,4 @@ button:hover {
     word-wrap: break-word;
     white-space: pre-wrap;
 }
+
