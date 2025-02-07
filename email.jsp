@@ -8,7 +8,13 @@
 </head>
 <body>
 <div class="container">
+<div class="heading1">
+<h2>Enter the Email Address</h2>
+</div>
+<div class="heading2">
+
     <form action="UserDetailsServlet" method="post">
+    
         <% 
             // Display the error message if available
             String errorMessage = (String) request.getAttribute("errorMessage");
@@ -22,6 +28,7 @@
         <input type="hidden" name="step" value="3">
         <button type="submit">Next</button>
     </form>
+    </div>
 </div>
 </body>
 </html>
