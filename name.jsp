@@ -8,23 +8,14 @@
 <link rel="stylesheet" href="name.css">
 </head>
 <body>
-<header>
-<nav>
-<ul>
-<li><a href="#"></a>
-<a href="#">Home</a></li>
-        <li><a href="#">About Us</a></li>
-        <li><a href="#">Help</a></li>
-</ul>
-</nav>
-</header>
+
 <div class = "container">
 <div class="heading1">
 <h2>Register to Your Account</h2>
 <h5>Enter your name</h5>
 </div>
 <div class="heading2">
-<form action="UserDetailsServlet" method="post" onsubmit="return validateNames()">
+<form action="UserDetailsServlet" method="post">
     <label><b>Name</b></label>
     <input type="text" name="firstName" required><br>
     <label><b>Surname</b></label>
@@ -34,11 +25,6 @@
 </form>
 </div>
 </div>
-<footer>
-    <p>Phone: +630-729-3236</p>
-    <p>Email: vishwakaramkuldeep900@gmail.com.com</p>
-    <p>Website: www.reallygreatsite.com</p>
-    <p>Address: 123-Anywhere St, Any City</p>
-  </footer>
+
 </body>
 </html>
