@@ -8,10 +8,14 @@
 </head>
 <body>
 <div class="container">
+<div class="heading1">
+<h2>Enter Your Password</h2>
+<h6> <i>password should include capital letters,small letters,<br>numbers and symbols</i></h6>
+</div>
+<div class="heading2">
     <form action="UserDetailsServlet" method="post">
         <label>Password</label>
         <input type="password" id="password" name="password" required>
-        <h6> <i>password should include capital letters,small letters,numbers and symbols</i></h6>
         <label>Confirm Password</label>
         <input type="password" id="confirmPassword" name="confirmPassword" required><br>
 
@@ -21,6 +25,7 @@
         <input type="hidden" name="step" value="4">
         <button type="submit">Submit</button>
     </form>
+    </div>
 </div>
 
 <script>
