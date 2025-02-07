@@ -9,6 +9,10 @@
 </head>
 <body>
     <div class="login-container">
+    <div class="heading1">
+    <h1>Login your Account</h1>
+    </div>
+    <div class="heading2">
         <form action="UserLoginServlet" method="post" class="login-form">
             <h2>Login</h2>
             <div class="form-group">
@@ -24,6 +28,7 @@
                 <p>Don't have an account? <a href="name.jsp">Create an account</a></p>
             </div>
         </form>
+        </div>
     </div>
 </body>
 </html>
