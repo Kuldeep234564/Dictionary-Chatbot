@@ -55,6 +55,10 @@
 </head>
 <body>
 <div class="container">
+<div class="heading1">
+<h3>Enter your Date of Birth<br> and Gender</h3>
+</div>
+<div class="heading2">
     <form action="UserDetailsServlet" method="post" onsubmit="return validateDOB()">
         <label>Age</label><input type="number" name="age" required oninput="setDOBRange()"><br>
         <label>Gender</label>
@@ -68,6 +72,7 @@
         <input type="hidden" name="step" value="2">
         <button type="submit">Next</button>
     </form>
+    </div>
 </div>
 </body>
 </html>
