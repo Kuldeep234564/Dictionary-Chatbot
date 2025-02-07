@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="welcome.css">
 </head>
 <body>
+
     <div class="chat-container">
         <h2>Dictionary Chatbot</h2>
         <div class="input-container">
@@ -16,41 +17,50 @@
         </div>
         <div id="botReply" class="bot-reply"></div>
     </div>
-    
     <script>
-        // Function to send the message to the Flask backend
-        function sendMessage() {
-            const userMessage = document.getElementById("userMessage").value;
+    // Function to send the message to the Flask backend
+function sendMessage() {
+    const userMessage = document.getElementById("userMessage").value.trim(); // Trim spaces
 
-            // Clear the reply container before fetching a new response
-            document.getElementById("botReply").innerText = "Thinking...";
+    if (userMessage === "") {
+        alert("Please enter a message!"); // Prevent empty input
+        return;
+    }
 
-            // Send the message to the Flask server using fetch
-            fetch('http://localhost:5000/chat', { // Adjust the URL if needed to match your Flask server's endpoint
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({ message: userMessage })
-            })
-            .then(response => response.json())
-            .then(data => {
-                // Display the bot's reply or an error message
-                if (data.reply) {
-                    document.getElementById("botReply").innerText = data.reply;
-                } else {
-                    document.getElementById("botReply").innerText = "Error: " + data.error;
-                }
-            })
-            .catch(error => {
-                // Handle errors in communication
-                document.getElementById("botReply").innerText = "An error occurred while connecting to the server.";
-                console.error('Error:', error);
-            });
+    // Show "Thinking..." while waiting for a response
+    document.getElementById("botReply").innerText = "Thinking...";
 
-            // Clear the input field after sending the message
-            document.getElementById("userMessage").value = "";
+    // Send user input to Flask backend
+    fetch('http://localhost:5000/chat', { 
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ message: userMessage.toLowerCase() }) // Convert to lowercase
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.reply) {
+            document.getElementById("botReply").innerText = data.reply;
+        } else {
+            document.getElementById("botReply").innerText = "❌ " + (data.error || "I don't understand your query.");
         }
-    </script>
+    })
+    .catch(error => {
+        document.getElementById("botReply").innerText = "⚠️ Error connecting to the server.";
+        console.error('Error:', error);
+    });
+
+    // Clear input field after sending message
+    document.getElementById("userMessage").value = "";
+}
+//Detect "Enter" key press in the input field
+document.getElementById("userMessage").addEventListener("keypress", function(event) {
+    if (event.key === "Enter") { // Check if the key pressed is "Enter"
+        event.preventDefault(); // Prevent default form submission
+        sendMessage(); // Call sendMessage() function
+    }
+});
+  </script>  
 </body>
 </html>
