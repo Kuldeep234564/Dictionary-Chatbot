@@ -8,6 +8,11 @@
     <link rel="stylesheet" href="welcome.css">
 </head>
 <body>
+ <div class="top-right">
+        <img src="profile.png" alt="Profile" class="profile-pic">
+        <a href="login.jsp"><button class="logout-btn">Logout</button></a>
+    </div>
+
 
     <div class="chat-container">
         <h2>Dictionary Chatbot</h2>
