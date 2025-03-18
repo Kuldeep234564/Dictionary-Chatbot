@@ -1,85 +1,100 @@
 @charset "UTF-8";
 /* General reset for consistency */
-* {
+/* General Page Styling */
+body {
+    background-color: #181818;
+    color: white;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-/* Styling the chatbot container */
-body {
-    background-color: #1e1e1e;
-    color: #f5f5f5;
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    position: relative;
     height: 100vh;
 }
 
+/* Chatbot Container - Centered */
 .chat-container {
-    width: 100%;
-    max-width: 1000px;
+    background-color: #2d2d2d;
     padding: 20px;
     border-radius: 10px;
-    background-color: #2d2d2d;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+    width: 500px;
     text-align: center;
-    padding-bottom:50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 1.5em;
-    color: #ffffff;
-}
-
-/* Styling the input and button */
+/* Input & Button Section */
 .input-container {
     display: flex;
-    align-items: center;
-    margin-bottom: 20px;
+    justify-content: space-between;
+    margin-top: 10px;
 }
 
-input[type="text"] {
+.input-container input {
     flex: 1;
     padding: 10px;
     border: none;
     border-radius: 5px;
-    margin-right: 10px;
-    font-size: 1em;
-    color: wheat;
-    background-color:#555;
+    background-color: #3b3b3b;
+    color: white;
+    font-size: 16px;
 }
 
-input[type="text"]::placeholder {
-    color: #888888;
-}
-
-button {
+.input-container button {
     padding: 10px 20px;
-    font-size: 1em;
-    color: #f5f5f5;
-    background-color: #4caf50;
     border: none;
     border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    margin-left: 10px;
     cursor: pointer;
-    transition: background-color 0.3s;
 }
 
-button:hover {
-    background-color: #45a049;
+.input-container button:hover {
+    background-color: #218838;
 }
 
-/* Styling the bot reply section */
+/* Bot Reply Box */
 .bot-reply {
-    padding:20px;
+    background-color: #3b3b3b;
+    padding: 15px;
     border-radius: 5px;
-    background-color: #3d3d3d;
-    color: #f5f5f5;
-    font-size: 0.9em;
+    margin-top: 20px;
     text-align: left;
-    word-wrap: break-word;
-    white-space: pre-wrap;
 }
 
+/* Profile & Logout Section - Top Right */
+.top-right {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+}
+
+/* Profile Image */
+.profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 2px solid white;
+}
+
+/* Logout Button */
+.logout-btn {
+    background-color: #28a745;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logout-btn:hover {
+    background-color: #218838;
+}
