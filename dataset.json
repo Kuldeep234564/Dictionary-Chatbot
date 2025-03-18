@@ -1,134 +1,3547 @@
 {
   "idioms": {
-    "bite the bullet": "To endure a painful experience or situation (दर्दनाक अनुभव या स्थिति को सहन करना).",
-    "break the ice": "To initiate a conversation in a social setting (सामाजिक वातावरण में बातचीत शुरू करना).",
-    "hit the sack": "To go to bed or sleep (सोने जाना)."
+    "bite the bullet": {
+      "meaning": "To endure a painful experience or situation (दर्दनाक अनुभव या स्थिति को सहन करना).",
+      "example": "Even though he was scared of the injection, he had to bite the bullet and get vaccinated."
+    },
+    "break the ice": {
+      "meaning": "To initiate a conversation in a social setting (सामाजिक वातावरण में बातचीत शुरू करना).",
+      "example": "To break the ice, she started talking about the latest movie she watched."
+    },
+    "hit the sack": {
+      "meaning": "To go to bed or sleep (सोने जाना).",
+      "example": "I'm so tired after the long day; it's time to hit the sack."
+    }
   },
   "phrasal_verbs": {
-     "bring up": "To mention a topic in conversation (किसी विषय को बातचीत में लाना).",
-    "give up": "To stop trying or surrender (हार मानना या छोड़ देना).",
-    "look after": "To take care of someone or something (किसी का ध्यान रखना).",
-    "abide by": "To follow or obey a rule, decision, or law (नियम, निर्णय या कानून का पालन करना).",
-    "abound in": "To exist in large numbers or quantities (बहुतायत में होना).",
-    "abound with": "To be filled with something in great quantity (किसी चीज़ से भरा होना).",
-    "accede to": "To agree to a request or demand, often after initial resistance (अक्सर प्रारंभिक विरोध के बाद किसी अनुरोध या मांग से सहमत होना).",
-    "accord with": "To be consistent or in agreement with something (किसी चीज़ के साथ संगत या सहमत होना).",
-    "account for": "To explain or justify something (किसी चीज़ की व्याख्या या औचित्य बताना).",
-    "add up": "To make sense or seem reasonable (समझ में आना या उचित लगना).",
-    "add up to": "To result in a total amount or effect (कुल राशि या प्रभाव में परिणत होना).",
-    "adhere to": "To stick firmly to a rule, belief, or surface (किसी नियम, विश्वास, या सतह पर दृढ़ता से बने रहना).",
-    "adjourn to": "To move to another place for a meeting or activity (किसी बैठक या गतिविधि के लिए दूसरी जगह जाना).",
-    "agree with": "To share the same opinion as someone else or be beneficial to someone’s health (किसी और की राय से सहमत होना या किसी के स्वास्थ्य के लिए लाभकारी होना).",
-    "ace out": "To narrowly defeat someone or achieve something successfully (किसी को थोड़ा-सा हराना या सफलतापूर्वक कुछ हासिल करना).",
-    "ache for": "To strongly desire or yearn for something (किसी चीज़ की तीव्र इच्छा या लालसा करना).",
-    "act out": "To perform or express emotions through actions, sometimes disruptively (क्रियाओं के माध्यम से भावनाओं का प्रदर्शन या व्यक्त करना, कभी-कभी विघटनकारी ढंग से).",
-    "act up": "To behave badly or not function properly (खराब व्यवहार करना या सही ढंग से काम नहीं करना).",
-    "aim at": "To direct efforts, attention, or a weapon towards something (किसी चीज़ की ओर प्रयास, ध्यान, या हथियार निर्देशित करना).",
-    "allow for": "To consider or include something as a possibility (किसी चीज़ को संभावना के रूप में मानना या शामिल करना).",
-    "allow of": "To permit or leave room for something (किसी चीज़ की अनुमति देना या जगह छोड़ना).",
-    "allude to": "To refer to something indirectly (किसी चीज़ का अप्रत्यक्ष रूप से उल्लेख करना).",
-    "amount to": "To equal or add up to a specific total or effect (किसी विशिष्ट कुल राशि या प्रभाव के बराबर होना या जोड़ना)."
-    
+    "bring up": {
+      "meaning": "To mention a topic in conversation (किसी विषय को बातचीत में लाना).",
+      "example": "She decided to bring up the issue during the meeting."
+    },
+    "give up": {
+      "meaning": "To stop trying or surrender (हार मानना या छोड़ देना).",
+      "example": "After several failed attempts, he decided to give up on learning the guitar."
+    },
+    "look after": {
+      "meaning": "To take care of someone or something (किसी का ध्यान रखना).",
+      "example": "She looks after her younger brother when their parents are at work."
+    },
+    "abide by": {
+      "meaning": "To follow or obey a rule, decision, or law (नियम, निर्णय या कानून का पालन करना).",
+      "example": "As a responsible citizen, you must abide by the rules of the country."
+    },
+    "abound in": {
+      "meaning": "To exist in large numbers or quantities (बहुतायत में होना).",
+      "example": "This forest abounds in various species of wildlife."
+    },
+     "accede to": {
+    "meaning": "To agree to a request or demand (किसी अनुरोध या मांग को स्वीकार करना).",
+    "example": "The government finally acceded to the public’s demand for reforms."
+  },
+  "accord with": {
+    "meaning": "To be consistent or in agreement with something (किसी चीज़ से मेल खाना या सहमत होना).",
+    "example": "His statement does not accord with the facts."
+  },
+  "ace out": {
+    "meaning": "To narrowly defeat someone or succeed in something (किसी को कड़ी टक्कर देकर हराना या सफलता प्राप्त करना).",
+    "example": "She aced out her competitors in the final round of the competition."
+  },
+  "ache for": {
+    "meaning": "To have a strong desire for something or someone (किसी चीज़ या व्यक्ति के लिए तीव्र इच्छा रखना).",
+    "example": "After months of separation, he ached for his family’s company."
+  },
+  "act up": {
+    "meaning": "To behave badly or cause trouble (बुरा व्यवहार करना या समस्या पैदा करना).",
+    "example": "The kids started acting up during the long car ride."
+  },
+  "act out": {
+    "meaning": "To express emotions through actions rather than words (भावनाओं को क्रियाओं के माध्यम से व्यक्त करना).",
+    "example": "He acted out his frustration by slamming the door."
+  },
+  "account for": {
+    "meaning": "To explain the reason for something (किसी चीज़ का कारण बताना).",
+    "example": "She couldn’t account for the missing documents."
+  },
+  "add up": {
+    "meaning": "To make sense or be logical (तर्कसंगत होना या समझ में आना).",
+    "example": "His excuse doesn’t add up; I think he’s lying."
+  },
+  "aim at": {
+    "meaning": "To direct efforts towards a goal (किसी लक्ष्य की ओर प्रयास करना).",
+    "example": "The campaign aims at raising awareness about climate change."
+  },
+  "add up to": {
+    "meaning": "To result in a total amount (किसी कुल राशि में परिणत होना).",
+    "example": "The expenses added up to more than expected."
+  },
+  "allow for": {
+    "meaning": "To consider or include something when making plans (योजना बनाते समय किसी चीज़ को ध्यान में रखना).",
+    "example": "You should allow for some extra time in case of traffic."
+  },
+  "adhere to": {
+    "meaning": "To stick firmly to rules, beliefs, or agreements (नियमों, विश्वासों या समझौतों का कड़ाई से पालन करना).",
+    "example": "All employees must adhere to the company policies."
+  },
+  "allow of": {
+    "meaning": "To permit or make something possible (किसी चीज़ की अनुमति देना या संभव बनाना).",
+    "example": "The situation does not allow of any delay."
+  },
+  "adjourn to": {
+    "meaning": "To move to another place after a meeting or gathering (बैठक या सभा के बाद दूसरी जगह जाना).",
+    "example": "After the discussion, we adjourned to the dining hall."
+  },
+  "allude to": {
+    "meaning": "To indirectly refer to something or someone (किसी चीज़ या व्यक्ति का अप्रत्यक्ष रूप से उल्लेख करना).",
+    "example": "She alluded to her past experiences without giving details."
+  },
+  "agree with": {
+    "meaning": "To have the same opinion as someone or approve of something (किसी से सहमत होना या किसी चीज़ को स्वीकार करना).",
+    "example": "I agree with your point about climate change."
+  },
+  "amount to": {
+    "meaning": "To be equivalent to or result in a specific outcome (किसी निश्चित परिणाम में परिणत होना या उसके बराबर होना).",
+    "example": "His actions amount to a violation of the law."
+  },
+  "angle for": {
+    "meaning": "To try to obtain something indirectly (किसी चीज़ को अप्रत्यक्ष रूप से प्राप्त करने की कोशिश करना).",
+    "example": "He was angling for a promotion by complimenting his boss frequently."
+  },
+  "announce against": {
+    "meaning": "To publicly declare opposition to someone or something (सार्वजनिक रूप से किसी का विरोध करना).",
+    "example": "The senator announced against the new tax policy."
+  },
+  "announce for": {
+    "meaning": "To declare support for someone or something (किसी के समर्थन की घोषणा करना).",
+    "example": "The mayor announced for the new education reforms."
+  },
+  "answer back": {
+    "meaning": "To reply rudely to someone in authority (अधिकारियों को अशिष्टता से जवाब देना).",
+    "example": "The student was punished for answering back to the teacher."
+  },
+  "answer for": {
+    "meaning": "To take responsibility for something (किसी चीज़ की जिम्मेदारी लेना).",
+    "example": "You must answer for your actions in the court of law."
+  },
+  "answer to": {
+    "meaning": "To be accountable to someone or follow their authority (किसी को जवाबदेह होना या उनके आदेशों का पालन करना).",
+    "example": "As an intern, she answers to the department manager."
+  },
+  "ante up": {
+    "meaning": "To pay a required amount, often reluctantly (आवश्यक धनराशि का भुगतान करना, आमतौर पर अनिच्छा से).",
+    "example": "Each team member had to ante up for the project expenses."
+  },
+  "appertain to": {
+    "meaning": "To relate to or be connected with something (किसी चीज़ से संबंधित होना).",
+    "example": "The rules appertain to all employees equally."
+  },
+  "arrive at": {
+    "meaning": "To reach a decision or conclusion (किसी निर्णय या निष्कर्ष पर पहुंचना).",
+    "example": "After hours of discussion, they arrived at a compromise."
+  },
+  "ascribe to": {
+    "meaning": "To attribute something to a cause or source (किसी चीज़ को किसी कारण या स्रोत से जोड़ना).",
+    "example": "He ascribed his success to years of hard work."
+  },
+  "ask after": {
+    "meaning": "To inquire about someone's well-being (किसी की कुशलता के बारे में पूछताछ करना).",
+    "example": "She called to ask after her friend’s health."
+  },
+  "ask around": {
+    "meaning": "To ask multiple people for information or help (जानकारी या सहायता के लिए कई लोगों से पूछना).",
+    "example": "I don’t know where he is; you should ask around."
+  },
+  "ask for": {
+    "meaning": "To request something (किसी चीज़ का अनुरोध करना).",
+    "example": "He asked for directions to the nearest hospital."
+  },
+  "ask in": {
+    "meaning": "To invite someone into a place (किसी को अंदर आमंत्रित करना).",
+    "example": "She asked me in for a cup of coffee."
+  },
+  "ask out": {
+    "meaning": "To invite someone on a date (किसी को डेट पर आमंत्रित करना).",
+    "example": "He finally gathered the courage to ask her out."
+  },
+  "ask over": {
+    "meaning": "To invite someone to your home (किसी को घर पर आमंत्रित करना).",
+    "example": "I asked my friends over for dinner."
+  },
+  "aspire to": {
+    "meaning": "To aim for or have a strong desire to achieve something (किसी चीज़ को प्राप्त करने की तीव्र इच्छा रखना).",
+    "example": "She aspires to become a successful entrepreneur."
+  },
+  "associate with": {
+    "meaning": "To connect or be involved with someone or something (किसी से जुड़ना या संबंधित होना).",
+    "example": "Many people associate wealth with happiness."
+  },
+  "atone for": {
+    "meaning": "To make amends or compensate for a wrongdoing (किसी गलती या अपराध का प्रायश्चित करना).",
+    "example": "He volunteered at a charity to atone for his past mistakes."
+  },
+  "auction off": {
+    "meaning": "To sell something to the highest bidder in an auction (नीलामी में किसी वस्तु को सबसे ऊंची बोली लगाने वाले को बेचना).",
+    "example": "They auctioned off the old furniture to raise funds."
+  },
+  "avail of": {
+    "meaning": "To take advantage of an opportunity or offer (किसी अवसर या प्रस्ताव का लाभ उठाना).",
+    "example": "Students can avail of the library’s free resources."
+  },
+  "attend to": {
+    "meaning": "To take care of or deal with something (किसी चीज़ की देखभाल करना या ध्यान देना).",
+    "example": "The doctor attended to the injured patient immediately."
+  },
+  "average out": {
+    "meaning": "To result in an average over a period of time (समय के साथ औसत रूप में परिणत होना).",
+    "example": "My monthly expenses average out to $500."
+  },
+  "attest to": {
+    "meaning": "To confirm the truth or validity of something (किसी चीज़ की सत्यता या वैधता की पुष्टि करना).",
+    "example": "His excellent performance attests to his hard work."
+  },
+  "attribute to": {
+    "meaning": "To consider something as being caused by someone or something (किसी चीज़ का कारण किसी को ठहराना).",
+    "example": "She attributes her success to years of dedication."
+  },
+  "average out at": {
+    "meaning": "To have a final average amount of something (अंत में औसतन किसी निश्चित संख्या पर पहुंचना).",
+    "example": "The temperature in summer averages out at 30°C."
+  },
+  "back away": {
+    "meaning": "To move away from someone or something, usually because of fear (डर या संकोच के कारण पीछे हटना).",
+    "example": "She backed away when she saw the aggressive dog."
+  },
+  "back down": {
+    "meaning": "To withdraw from a position, argument, or demand (किसी स्थिति, तर्क, या मांग से पीछे हटना).",
+    "example": "He refused to back down in the debate."
+  },
+  "back off": {
+    "meaning": "To stop being aggressive or pressing (पीछे हट जाना, जोर देना बंद करना).",
+    "example": "The police told the protesters to back off."
+  },
+  "back out": {
+    "meaning": "To withdraw from an agreement or commitment (किसी समझौते या वादे से पीछे हटना).",
+    "example": "He backed out of the deal at the last minute."
+  },
+  "back up": {
+    "meaning": "To support someone or something (किसी का समर्थन करना) OR to create a copy of data (डेटा का बैकअप बनाना).",
+    "example": "She backed up her claim with evidence."
+  },
+  "back onto": {
+    "meaning": "To have a back side that faces or touches something (पीछे की तरफ किसी चीज़ से सटा होना).",
+    "example": "Their house backs onto a beautiful garden."
+  },
+  "bail up": {
+    "meaning": "To stop someone from leaving or delay them (किसी को रोकना या देर करना).",
+    "example": "He bailed me up with endless questions."
+  },
+  "balance out": {
+    "meaning": "To counteract one effect with another to make things equal (किसी प्रभाव को संतुलित करना).",
+    "example": "The expenses and profits balanced out in the end."
+  },
+  "bag up": {
+    "meaning": "To put things into a bag (चीजों को बैग में रखना).",
+    "example": "She bagged up the groceries at the checkout."
+  },
+  "bail out": {
+    "meaning": "To help someone in a difficult situation, often financially (किसी की मदद करना, खासकर वित्तीय संकट में).",
+    "example": "The government bailed out the struggling company."
+  },
+  "bale out": {
+    "meaning": "To jump out of an aircraft in an emergency (आपातकालीन स्थिति में विमान से कूदना).",
+    "example": "The pilot had to bale out before the plane crashed."
+  },
+  "balk at": {
+    "meaning": "To hesitate or refuse to do something (किसी चीज़ को करने में हिचकिचाना या मना करना).",
+    "example": "He balked at the idea of working overtime."
+  },
+  "balls up": {
+    "meaning": "To completely mess up or spoil something (पूरी तरह से गड़बड़ कर देना).",
+    "example": "He really balled up the presentation by forgetting his speech."
+  },
+  "band together": {
+    "meaning": "To unite for a common purpose (किसी सामान्य उद्देश्य के लिए एकजुट होना).",
+    "example": "The workers banded together to demand better wages."
+  },
+  "bandage up": {
+    "meaning": "To wrap a wound with a bandage (घाव पर पट्टी बांधना).",
+    "example": "The nurse bandaged up his injured arm."
+  },
+  "bang out": {
+    "meaning": "To produce something quickly, often without much care (जल्दी-जल्दी कुछ तैयार करना).",
+    "example": "He banged out an essay just before the deadline."
+  },
+  "bandy about": {
+    "meaning": "To talk about something in a casual or careless way (बिना सोच-विचार के किसी चीज़ पर चर्चा करना).",
+    "example": "Rumors about his resignation were bandied about in the office."
+  },
+  "bang up": {
+    "meaning": "To damage or injure something or someone badly (किसी चीज़ को गंभीर रूप से नुकसान पहुंचाना या घायल करना).",
+    "example": "He really banged up his car in the accident."
+  },
+  "bang about": {
+    "meaning": "To move around noisily, often causing disruption (शोर मचाते हुए इधर-उधर घूमना).",
+    "example": "The kids were banging about upstairs all evening."
+  },
+  "bang around": {
+    "meaning": "To move in a rough or noisy way (अशांति के साथ इधर-उधर घूमना).",
+    "example": "He banged around in the kitchen looking for a snack."
+  },
+  "bang away at": {
+    "meaning": "To work hard at something, especially repeatedly (लगातार मेहनत से किसी चीज़ पर काम करना).",
+    "example": "She kept banging away at her novel despite the distractions."
+  },
+  "bang on": {
+    "meaning": "To talk continuously and often annoyingly about something (बिना रुके किसी चीज़ के बारे में बोलते रहना).",
+    "example": "He kept banging on about his new car."
+  },
+  "bang down": {
+    "meaning": "To put something down with force, often angrily (गुस्से में जोर से पटकना).",
+    "example": "She banged down the phone after the argument."
+  },
+  "bargain for": {
+    "meaning": "To expect or anticipate something (किसी चीज़ की उम्मीद करना).",
+    "example": "I didn’t bargain for such a difficult exam."
+  },
+  "bargain on": {
+    "meaning": "To rely on something happening (किसी चीज़ के होने पर निर्भर रहना).",
+    "example": "We hadn’t bargained on the heavy traffic."
+  },
+  "bang into": {
+    "meaning": "To crash into something by accident (गलती से किसी चीज़ से टकराना).",
+    "example": "He banged into the door while rushing out."
+  },
+  "barge in": {
+    "meaning": "To enter a place suddenly and rudely (बिना अनुमति के अचानक प्रवेश करना).",
+    "example": "He barged in without knocking."
+  },
+  "bask in": {
+    "meaning": "To enjoy and take pleasure in something, usually praise or warmth (किसी चीज़ का आनंद लेना, जैसे प्रशंसा या धूप).",
+    "example": "She basked in the glory of her success."
+  },
+  "bark out": {
+    "meaning": "To say something quickly and sharply (किसी चीज़ को तेज़ और सख्त लहजे में बोलना).",
+    "example": "The sergeant barked out orders to the soldiers."
+  },
+  "bat around": {
+    "meaning": "To discuss different ideas before making a decision (किसी विचार को लागू करने से पहले उस पर चर्चा करना).",
+    "example": "We batted around some ideas for the new project."
+  },
+  "base on": {
+    "meaning": "To use something as a foundation or starting point (किसी चीज़ को आधार बनाना).",
+    "example": "The movie is based on a true story."
+  },
+  "bat out": {
+    "meaning": "To produce something quickly without much care (जल्दी-जल्दी कुछ तैयार करना).",
+    "example": "He batted out a rough draft of the article."
+  },
+  "bash about": {
+    "meaning": "To treat something roughly or without care (किसी चीज़ को बुरी तरह से संभालना).",
+    "example": "The luggage was bashed about during the flight."
+  },
+  "batten down": {
+    "meaning": "To prepare for a difficult situation (किसी कठिन परिस्थिति के लिए तैयार होना).",
+    "example": "They battened down the hatches before the storm."
+  },
+  "bash in": {
+    "meaning": "To hit something very hard, causing damage (किसी चीज़ पर जोर से मारना और उसे क्षतिग्रस्त करना).",
+    "example": "The robbers bashed in the door to get inside."
+  },
+  "batten on": {
+    "meaning": "To take advantage of someone or something for personal gain (स्वार्थी लाभ के लिए किसी पर निर्भर रहना).",
+    "example": "He battened on his wealthy relatives for years."
+  },
+  "bash up": {
+    "meaning": "To physically attack and injure someone (किसी को मारपीट कर घायल करना).",
+    "example": "He got bashed up in a street fight."
+  },
+  "baulk at": {
+    "meaning": "To be unwilling to do something or hesitate (किसी चीज़ को करने में हिचकिचाना).",
+    "example": "She baulked at the idea of spending so much money."
+  },
+  "bawl out": {
+    "meaning": "To reprimand someone loudly and severely (किसी को जोर से डांटना).",
+    "example": "The coach bawled out the players for their poor performance."
+  },
+  "bear down": {
+    "meaning": "To apply pressure or force to something (किसी चीज़ पर दबाव डालना).",
+    "example": "She bore down on the problem until she found a solution."
+  },
+  "bear upon": {
+    "meaning": "To be relevant to or have an effect on something (किसी चीज़ से संबंधित होना या उस पर प्रभाव डालना).",
+    "example": "The judge’s decision bears upon the new law."
+  },
+  "bear with": {
+    "meaning": "To be patient with someone (किसी के साथ धैर्य रखना).",
+    "example": "Please bear with me while I find your details."
+  },
+  "beat down": {
+    "meaning": "To try to reduce the price of something (मोलभाव करके कीमत कम करना).",
+    "example": "She managed to beat down the price of the car."
+  },
+  "bear down on": {
+    "meaning": "To move towards something aggressively or forcefully (किसी चीज़ की ओर तेजी से बढ़ना).",
+    "example": "The storm was bearing down on the coast."
+  },
+  "bear on": {
+    "meaning": "To be related to something (किसी चीज़ से जुड़ा होना).",
+    "example": "His research bears on the study of climate change."
+  },
+  "beat off": {
+    "meaning": "To fight off an attack or competition (हमला या प्रतियोगिता को रोकना).",
+    "example": "The goalkeeper beat off several attempts to score."
+  },
+  "bear up": {
+    "meaning": "To remain strong in a difficult situation (मुश्किल समय में मजबूती से खड़ा रहना).",
+    "example": "She bore up well under the pressure."
+  },
+  "beat out": {
+    "meaning": "To defeat someone in a competition (प्रतियोगिता में किसी को हराना).",
+    "example": "Our team beat out the rivals in the final round."
+  },
+  "beat out of": {
+    "meaning": "To force someone to give up something, often through pressure (किसी से जबरदस्ती कुछ निकलवाना).",
+    "example": "They beat the confession out of him."
+  },
+  "beat up": {
+    "meaning": "To attack someone violently (किसी को बुरी तरह से पीटना).",
+    "example": "He was beaten up by a gang last night."
+  },
+  "bed out": {
+    "meaning": "To plant seedlings outside (बाहरी पौधों को रोपना).",
+    "example": "She bedded out the flowers in the garden."
+  },
+  "beef up": {
+    "meaning": "To improve or make stronger (किसी चीज़ को और बेहतर या मजबूत बनाना).",
+    "example": "They beefed up security after the incident."
+  },
+  "beat up on": {
+    "meaning": "To treat someone harshly or unfairly (किसी से कठोरता से पेश आना).",
+    "example": "Stop beating up on yourself over one mistake."
+  },
+  "beg off": {
+    "meaning": "To ask to be excused from doing something (किसी चीज़ को करने से बचने के लिए बहाना बनाना).",
+    "example": "She begged off attending the late-night party."
+  },
+  "beaver away": {
+    "meaning": "To work hard for a long time (किसी काम को लंबे समय तक मेहनत से करना).",
+    "example": "He’s been beavering away at his thesis all week."
+  },
+  "begin with": {
+    "meaning": "To start with something (किसी चीज़ से शुरुआत करना).",
+    "example": "Let’s begin with a short introduction."
+  },
+  "become of": {
+    "meaning": "To happen to someone or something (किसी के साथ क्या हुआ या होगा).",
+    "example": "What will become of the old house?"
+  },
+  "believe in": {
+    "meaning": "To have faith or trust in something (किसी चीज़ में विश्वास रखना).",
+    "example": "I believe in hard work and determination."
+  },
+  "bed down": {
+    "meaning": "To settle down to sleep, usually in an unusual place (अस्थायी रूप से कहीं सो जाना).",
+    "example": "The campers bedded down under the stars."
+  },
+  "belly out": {
+    "meaning": "To swell outward (फूल जाना, फैल जाना).",
+    "example": "The sails bellied out in the strong wind."
+  },
+  "belly up to": {
+    "meaning": "To move close to something, especially a bar (किसी चीज़ के पास आना, खासकर बार में).",
+    "example": "He bellied up to the bar and ordered a drink."
+  },
+  "belong to": {
+    "meaning": "To be owned by someone (किसी का होना, स्वामित्व में होना).",
+    "example": "This book belongs to me."
+  },
+  "belt out": {
+    "meaning": "To sing or play music loudly (जोर से गाना या संगीत बजाना).",
+    "example": "She belted out her favorite song at the concert."
+  },
+  "belt up": {
+    "meaning": "To fasten a seatbelt or to keep quiet (सीटबेल्ट लगाना या चुप रहना).",
+    "example": "Belt up before we start driving."
+  },
+  "belt into": {
+    "meaning": "To eat or drink something quickly and eagerly (जल्दी से खाना या पीना).",
+    "example": "He belted into his lunch after a long day."
+  },
+  "bend down": {
+    "meaning": "To lower the upper part of your body (नीचे झुकना).",
+    "example": "She bent down to pick up the coin."
+  },
+  "bend over": {
+    "meaning": "To lean forward from the waist (कमर से आगे झुकना).",
+    "example": "He bent over to tie his shoelaces."
+  },
+  "bend over backwards": {
+    "meaning": "To make a great effort to help someone (किसी की मदद के लिए बहुत प्रयास करना).",
+    "example": "She bent over backwards to make her guests comfortable."
+  },
+  "bind up in": {
+    "meaning": "To be deeply involved in something (किसी चीज़ में गहराई से शामिल होना).",
+    "example": "He was too bound up in his work to notice the time."
+  },
+  "bet on": {
+    "meaning": "To wager money or take a risk on something (किसी चीज़ पर दांव लगाना).",
+    "example": "I wouldn’t bet on him winning the race."
+  },
+  "bite back": {
+    "meaning": "To hold back an angry or sarcastic response (गुस्से को रोकना या दबाना).",
+    "example": "She had to bite back a sarcastic remark."
+  },
+  "bid on": {
+    "meaning": "To offer a price for something, especially in an auction (नीलामी में कीमत लगाना).",
+    "example": "He bid on a rare painting at the auction."
+  },
+  "bill as": {
+    "meaning": "To advertise or describe someone or something in a particular way (किसी को किसी रूप में प्रचारित करना).",
+    "example": "The film was billed as the best thriller of the year."
+  },
+  "bite into": {
+    "meaning": "To sink teeth into something or reduce the effectiveness of something (काटना या प्रभाव कम करना).",
+    "example": "Taxes are really biting into my savings."
+  },
+  "bind over": {
+    "meaning": "To legally require someone to appear in court (कानूनी रूप से किसी को अदालत में पेश होने के लिए बाध्य करना).",
+    "example": "The judge bound him over for trial."
+  },
+  "black out": {
+    "meaning": "To lose consciousness or experience a power failure (बेहोश होना या बिजली गुल हो जाना).",
+    "example": "He blacked out after standing in the sun for too long."
+  },
+  "bind to": {
+    "meaning": "To be attached or committed to something (किसी चीज़ से जुड़ा होना या प्रतिबद्ध होना).",
+    "example": "He is legally bound to the contract."
+  },
+  "blank out": {
+    "meaning": "To forget something suddenly or to cover something to make it unreadable (अचानक भूल जाना या किसी चीज़ को ढंक देना).",
+    "example": "I blanked out during the exam and couldn’t remember the answer."
+  },
+  "blend in": {
+    "meaning": "To mix or combine well with the surroundings (पर्यावरण में घुल-मिल जाना).",
+    "example": "She tried to blend in with the crowd at the party."
+  },
+  "blanket with": {
+    "meaning": "To cover something completely (किसी चीज़ को पूरी तरह ढंक देना).",
+    "example": "The field was blanketed with snow."
+  },
+  "block off": {
+    "meaning": "To close an area so that people cannot enter (किसी क्षेत्र को बंद कर देना).",
+    "example": "The police blocked off the road after the accident."
+  },
+  "block in": {
+    "meaning": "To prevent someone from moving by parking too close (किसी को बाहर निकलने से रोकना).",
+    "example": "Someone blocked me in, and I couldn’t drive out."
+  },
+  "blast away": {
+    "meaning": "To shoot continuously or make a loud noise (लगातार गोली चलाना या तेज़ आवाज़ करना).",
+    "example": "The soldiers blasted away at the enemy base."
+  },
+  "block out": {
+    "meaning": "To stop light, noise, or thoughts from entering (प्रकाश, आवाज़, या विचारों को रोकना).",
+    "example": "I used headphones to block out the noise."
+  },
+  "blast off": {
+    "meaning": "To launch into space (अंतरिक्ष में प्रक्षेपण होना).",
+    "example": "The rocket blasted off successfully."
+  },
+  "block up": {
+    "meaning": "To obstruct or fill a space completely (रास्ता बंद कर देना).",
+    "example": "Leaves blocked up the drain."
+  },
+  "blow down": {
+    "meaning": "To fall due to strong wind (तेज़ हवा के कारण गिर जाना).",
+    "example": "The storm blew down several trees."
+  },
+  "blot out": {
+    "meaning": "To cover or erase something completely (किसी चीज़ को मिटा देना या ढंक देना).",
+    "example": "Clouds blotted out the sun."
+  },
+  "blow in": {
+    "meaning": "To arrive suddenly and unexpectedly (अचानक आ जाना).",
+    "example": "She just blew in from New York."
+  },
+  "blow off": {
+    "meaning": "To ignore or cancel something casually (किसी को नज़रअंदाज़ करना या टाल देना).",
+    "example": "He blew off the meeting to go to the beach."
+  },
+  "blow away": {
+    "meaning": "To be extremely impressed or to remove something by wind (अत्यधिक प्रभावित होना या हवा से उड़ जाना).",
+    "example": "Her singing really blew me away."
+  },
+  "blow out": {
+    "meaning": "To extinguish a flame or cause a tire to burst (आग बुझाना या टायर फट जाना).",
+    "example": "He blew out the candles on his birthday cake."
+  },
+  "blow over": {
+    "meaning": "To pass without causing harm (किसी समस्या या तूफान का टल जाना).",
+    "example": "The scandal will soon blow over."
+  },
+  "bluff out": {
+    "meaning": "To deceive someone into believing something (धोखे से विश्वास दिलाना).",
+    "example": "He bluffed out his opponent in the poker game."
+  },
+  "blow up": {
+    "meaning": "To explode or become very angry (विस्फोट होना या बहुत गुस्सा हो जाना).",
+    "example": "The bomb blew up in the middle of the city."
+  },
+  "blunder about": {
+    "meaning": "To move in a clumsy or careless way (असावधानी से घूमना या चलना).",
+    "example": "He blundered about in the dark, knocking things over."
+  },
+  "blunder into": {
+    "meaning": "To accidentally encounter something (गलती से किसी चीज़ से टकरा जाना या किसी स्थिति में फंस जाना).",
+    "example": "He blundered into a meeting without realizing it had already started."
+  },
+  "bog in": {
+    "meaning": "To start working on something with enthusiasm (जोश के साथ किसी काम में लग जाना).",
+    "example": "Everyone bogged in as soon as the food was served."
+  },
+  "blurt out": {
+    "meaning": "To say something suddenly without thinking (बिना सोचे समझे अचानक कुछ बोल देना).",
+    "example": "She blurted out the secret before realizing what she had done."
+  },
+  "bog off": {
+    "meaning": "To go away (आगे बढ़ जाना, हट जाना) [British slang].",
+    "example": "He told them to bog off and leave him alone."
+  },
+  "board out": {
+    "meaning": "To arrange for someone to live somewhere else temporarily (किसी को अस्थायी रूप से कहीं और रहने के लिए भेजना).",
+    "example": "The children were boarded out to a foster family during the war."
+  },
+  "boil down": {
+    "meaning": "To reduce the volume or amount of something by boiling (किसी चीज़ को उबालकर कम कर देना).",
+    "example": "The sauce needs to boil down before adding the seasoning."
+  },
+  "board up": {
+    "meaning": "To cover windows or doors with wooden boards (खिड़कियों या दरवाजों को लकड़ी से ढंक देना).",
+    "example": "They boarded up the shop before the hurricane hit."
+  },
+  "boil down to": {
+    "meaning": "To be the essential or main point (किसी चीज़ का मुख्य सार होना).",
+    "example": "The argument boils down to a simple misunderstanding."
+  },
+  "bob up": {
+    "meaning": "To appear suddenly or unexpectedly (अचानक प्रकट हो जाना).",
+    "example": "His name keeps bobbing up in our conversations."
+  },
+  "boil over": {
+    "meaning": "To spill over due to excessive boiling, or to lose temper (उबलकर बाहर आ जाना या गुस्से में आ जाना).",
+    "example": "The milk boiled over while I was on the phone."
+  },
+  "bog down": {
+    "meaning": "To become stuck or slowed down (फंस जाना या धीमा हो जाना).",
+    "example": "The project bogged down due to financial issues."
+  },
+  "book in": {
+    "meaning": "To check in at a hotel or register somewhere (होटल में चेक-इन करना या कहीं पंजीकरण कराना).",
+    "example": "We booked in at the hotel for two nights."
+  },
+  "boil up": {
+    "meaning": "To heat a liquid until it boils or to feel strong emotions (किसी चीज़ को उबालना या भावनाओं का प्रबल हो जाना).",
+    "example": "Anger boiled up inside him when he heard the news."
+  },
+  "bolt down": {
+    "meaning": "To eat food very quickly (जल्दी-जल्दी खाना खाना).",
+    "example": "He bolted down his breakfast before rushing to work."
+  },
+  "book up": {
+    "meaning": "To reserve all available places (सभी जगहें बुक कर लेना).",
+    "example": "The tickets were booked up weeks in advance."
+  },
+  "bomb out": {
+    "meaning": "To fail badly or be forced to leave due to bombing (बुरी तरह असफल होना या बमबारी के कारण भाग जाना).",
+    "example": "The play bombed out after just one week."
+  },
+  "boom out": {
+    "meaning": "To make a very loud noise (तेज़ आवाज़ में बोलना या गूंजना).",
+    "example": "The announcer’s voice boomed out across the stadium."
+  },
+  "bombard with": {
+    "meaning": "To attack someone with a lot of questions, messages, or criticism (किसी को बहुत सारे प्रश्न, संदेश या आलोचना से भर देना).",
+    "example": "The customer service team was bombarded with complaints after the product launch."
+  },
+  "boomerang on": {
+    "meaning": "To have the opposite effect of what was intended (किसी योजना या क्रिया का उल्टा प्रभाव पड़ना).",
+    "example": "His plan to frame his rival boomeranged on him when the truth came out."
+  },
+  "bone up": {
+    "meaning": "To study intensively before an exam or important event (किसी विषय को जल्दी और गहराई से पढ़ना).",
+    "example": "She boned up on math before the big test."
+  },
+  "boot out": {
+    "meaning": "To force someone to leave (किसी को जबरदस्ती बाहर निकाल देना).",
+    "example": "The unruly guest was booted out of the restaurant."
+  },
+  "boot up": {
+    "meaning": "To start a computer or operating system (कंप्यूटर को चालू करना).",
+    "example": "He booted up his laptop to check emails."
+  },
+  "botch up": {
+    "meaning": "To mess up or ruin something (किसी काम को खराब या गलत कर देना).",
+    "example": "He botched up the project by missing important details."
+  },
+  "border on": {
+    "meaning": "To be very close to something (किसी चीज़ के बहुत करीब होना).",
+    "example": "His rude behavior bordered on disrespect."
+  },
+  "bottle out": {
+    "meaning": "To lose courage and decide not to do something (डर की वजह से कुछ न करना).",
+    "example": "He wanted to confront his boss but bottled out at the last moment."
+  },
+  "bottle up": {
+    "meaning": "To suppress emotions and not express them (भावनाओं को दबाकर रखना).",
+    "example": "She bottled up her anger instead of confronting the issue."
+  },
+  "bore into": {
+    "meaning": "To stare at someone intensely or to drill into something (किसी को ध्यान से देखना या किसी चीज़ में छेद करना).",
+    "example": "His eyes bored into mine as he waited for an answer."
+  },
+  "boss about": {
+    "meaning": "To give orders in an annoying way (बेवजह आदेश देना).",
+    "example": "She keeps bossing her younger brother about."
+  },
+  "bottom out": {
+    "meaning": "To reach the lowest point before starting to rise again (किसी स्थिति का सबसे निचला स्तर पर पहुंच जाना).",
+    "example": "The economy finally bottomed out after months of decline."
+  },
+  "bounce around": {
+    "meaning": "To discuss ideas with different people (विचारों का आदान-प्रदान करना).",
+    "example": "We bounced around some ideas for the new project."
+  },
+  "bounce back": {
+    "meaning": "To recover quickly from a setback (मुश्किलों से जल्दी उबर जाना).",
+    "example": "After losing the match, he bounced back with a strong performance."
+  },
+  "box in": {
+    "meaning": "To restrict someone’s movement or options (किसी को सीमित कर देना).",
+    "example": "The parked cars boxed me in, and I couldn't leave."
+  },
+  "bounce into": {
+    "meaning": "To persuade someone to do something (किसी को किसी काम के लिए मजबूर कर देना).",
+    "example": "She bounced him into accepting the job."
+  },
+  "bounce off": {
+    "meaning": "To test an idea by discussing it with someone (किसी विचार पर प्रतिक्रिया लेना).",
+    "example": "Let me bounce this idea off you before I finalize the plan."
+  },
+  "box up": {
+    "meaning": "To put things into boxes (चीजों को डिब्बों में रखना).",
+    "example": "They boxed up all their belongings before moving."
+  },
+  "bow down": {
+    "meaning": "To show deep respect or surrender (गहरा सम्मान दिखाना या आत्मसमर्पण करना).",
+    "example": "He bowed down before the king."
+  },
+  "brace up": {
+    "meaning": "To prepare oneself mentally or physically for something difficult (किसी कठिन परिस्थिति के लिए तैयार होना).",
+    "example": "He braced up before delivering his speech."
+  },
+  "bow out": {
+    "meaning": "To withdraw from a situation or competition (किसी चीज़ से पीछे हटना या संन्यास लेना).",
+    "example": "She bowed out of the competition due to an injury."
+  },
+  "branch out": {
+    "meaning": "To expand into new areas of business or activities (नई चीज़ों में हाथ आज़माना).",
+    "example": "The company is branching out into the tech industry."
+  },
+  "break down": {
+    "meaning": "To stop working or to become emotionally upset (बंद हो जाना या भावनात्मक रूप से टूट जाना).",
+    "example": "The car broke down on the way to work."
+  },
+  "brave out": {
+    "meaning": "To face a difficult situation with courage (साहस के साथ कठिनाई का सामना करना).",
+    "example": "She braved out the storm without showing any fear."
+  },
+  "brazen out": {
+    "meaning": "To act confidently in a difficult situation (कठिन परिस्थिति में आत्मविश्वास से काम लेना).",
+    "example": "He brazened out the accusations without any sign of guilt."
+  },
+  "break away": {
+    "meaning": "To escape from something or someone (किसी से दूर भाग जाना या अलग हो जाना).",
+    "example": "The prisoner broke away from the guards."
+  },
+  "break for": {
+    "meaning": "To suddenly move towards something (किसी चीज़ की ओर अचानक बढ़ना).",
+    "example": "He broke for the exit when the fire alarm rang."
+  },
+  "break in on": {
+    "meaning": "To interrupt a conversation or event (बातचीत या घटना में दखल देना).",
+    "example": "She broke in on their meeting with an urgent message."
+  },
+  "break in": {
+    "meaning": "To forcefully enter a place or to train something new (जबरदस्ती घुसना या कुछ नया इस्तेमाल करने के लिए तैयार करना).",
+    "example": "Thieves broke in last night and stole valuable items."
+  },
+  "break into": {
+    "meaning": "To enter a place by force (बलपूर्वक किसी जगह में घुसना).",
+    "example": "The burglars broke into the house through the back door."
+  },
+  "break off": {
+    "meaning": "To end something suddenly, like a relationship or discussion (अचानक रिश्ता या बातचीत खत्म करना).",
+    "example": "They broke off their engagement due to personal differences."
+  },
+  "break out": {
+    "meaning": "To escape or suddenly start (अचानक शुरू होना या भाग जाना).",
+    "example": "A fire broke out in the warehouse last night."
+  },
+  "break off with": {
+    "meaning": "To end a relationship with someone (किसी के साथ रिश्ता तोड़ना).",
+    "example": "She broke off with her business partner after a dispute."
+  },
+  "break out in": {
+    "meaning": "To develop a skin reaction like rash or sweat (त्वचा पर दाने निकलना या पसीना आना).",
+    "example": "He broke out in a rash after eating peanuts."
+  },
+  "break through": {
+    "meaning": "To overcome an obstacle or difficulty (बाधा को पार करना).",
+    "example": "The researchers finally broke through the problem and found a cure."
+  },
+  "break up": {
+    "meaning": "To end a relationship, meeting, or school term (रिश्ता, बैठक, या स्कूल सत्र समाप्त करना).",
+    "example": "They broke up after five years of dating."
+  },
+  "breeze in": {
+    "meaning": "To enter a place quickly and confidently (तेजी और आत्मविश्वास से प्रवेश करना).",
+    "example": "She breezed in like she owned the place."
+  },
+  "breeze into": {
+    "meaning": "To enter a place casually or effortlessly (बिना किसी प्रयास के कहीं प्रवेश करना).",
+    "example": "He breezed into the meeting without a care in the world."
+  },
+  "break with": {
+    "meaning": "To end a connection or tradition (किसी परंपरा या व्यक्ति से नाता तोड़ना).",
+    "example": "She decided to break with tradition and start her own business."
+  },
+  "breeze through": {
+    "meaning": "To do something easily and with little effort (आसानी से कोई काम कर लेना).",
+    "example": "She breezed through the exam without any difficulty."
+  },
+  "breathe in": {
+    "meaning": "To inhale air or a substance (सांस अंदर लेना).",
+    "example": "She closed her eyes and breathed in the fresh mountain air."
+  },
+  "breathe out": {
+    "meaning": "To exhale air (सांस छोड़ना).",
+    "example": "He took a deep breath and breathed out slowly."
+  },
+  "brick in": {
+    "meaning": "To block an opening with bricks (ईंटों से कोई रास्ता बंद करना).",
+    "example": "They bricked in the old doorway during renovations."
+  },
+  "brighten up": {
+    "meaning": "To make something more cheerful or to improve the weather (खुशहाल बनाना या मौसम साफ़ होना).",
+    "example": "Her smile brightened up the whole room."
+  },
+  "bring along": {
+    "meaning": "To take someone or something with you (अपने साथ लाना).",
+    "example": "She brought along her best friend to the party."
+  },
+  "brim over": {
+    "meaning": "To overflow with emotion or liquid (भावनाओं या तरल से भर जाना).",
+    "example": "Her heart brimmed over with happiness at the good news."
+  },
+  "brim over with": {
+    "meaning": "To be full of a particular quality (किसी भावना से पूरी तरह भरा होना).",
+    "example": "He was brimming over with confidence before the presentation."
+  },
+  "bring around": {
+    "meaning": "To persuade someone or to revive someone (किसी को मनाना या बेहोशी से होश में लाना).",
+    "example": "It took time, but she finally brought him around to her way of thinking."
+  },
+  "brim with": {
+    "meaning": "To be full of something (किसी चीज़ से पूरी तरह भरा होना).",
+    "example": "Her eyes brimmed with tears of joy."
+  },
+  "bring about": {
+    "meaning": "To cause something to happen (किसी चीज़ को संभव बनाना या कारण बनना).",
+    "example": "The new policy brought about significant changes in the system."
+  },
+  "bring back": {
+    "meaning": "To return something or to make someone remember something (वापस लाना या किसी को याद दिलाना).",
+    "example": "This song brings back so many childhood memories."
+  },
+   "bring down": {
+    "meaning": "To reduce something or to cause someone to lose power (किसी चीज़ को कम करना या किसी को सत्ता से हटाना).",
+    "example": "The government is trying to bring down inflation."
+  },
+  "bring back to": {
+    "meaning": "To restore someone’s consciousness or recall something to memory (किसी को होश में लाना या याद दिलाना).",
+    "example": "The smell of fresh bread brought back to my childhood memories."
+  },
+  "bring forth": {
+    "meaning": "To produce or present something (किसी चीज़ को प्रस्तुत करना या उत्पन्न करना).",
+    "example": "The discussion brought forth many new ideas."
+  },
+  "bring before": {
+    "meaning": "To present someone or something for consideration or judgment (किसी को अदालत या अधिकारियों के सामने प्रस्तुत करना).",
+    "example": "The case was brought before the judge for a final decision."
+  },
+  "bring forward": {
+    "meaning": "To present an idea or proposal or to move an event to an earlier date (किसी विचार को प्रस्तुत करना या किसी कार्यक्रम को पहले कर देना).",
+    "example": "They decided to bring forward the meeting to Monday."
+  },
+  "bring in": {
+    "meaning": "To introduce something new or earn money (किसी नए नियम को लागू करना या आय अर्जित करना).",
+    "example": "The new law was brought in to control pollution."
+  },
+  "bring on": {
+    "meaning": "To cause something to happen, usually something bad (किसी नकारात्मक चीज़ का कारण बनना).",
+    "example": "The cold weather brought on his fever again."
+  },
+  "bring out": {
+    "meaning": "To make something visible or publish something (किसी चीज़ को उजागर करना या प्रकाशित करना).",
+    "example": "This makeup brings out the beauty of your eyes."
+  },
+  "bring into": {
+    "meaning": "To involve someone in a situation or discussion (किसी को किसी स्थिति या चर्चा में शामिल करना).",
+    "example": "They brought him into the team to strengthen the defense."
+  },
+  "bring off": {
+    "meaning": "To successfully complete something difficult (किसी कठिन चीज़ को सफलतापूर्वक पूरा करना).",
+    "example": "She brought off the business deal despite all the challenges."
+  },
+  "bring out in": {
+    "meaning": "To cause a skin reaction or emotional response (त्वचा की प्रतिक्रिया या भावनात्मक प्रतिक्रिया उत्पन्न करना).",
+    "example": "The heat brings me out in a rash."
+  },
+  "bring over to": {
+    "meaning": "To convince someone to change their opinion or bring someone to a place (किसी को मनाना या किसी को किसी जगह लाना).",
+    "example": "He brought me over to his point of view after a long discussion."
+  },
+  "bring to": {
+    "meaning": "To restore consciousness or awareness (होश में लाना या जागरूक करना).",
+    "example": "The cold water helped bring him to after he fainted."
+  },
+  "bring together": {
+    "meaning": "To unite people or things (लोगों या चीजों को एक साथ लाना).",
+    "example": "The event brought together experts from various fields."
+  },
+  "brush aside": {
+    "meaning": "To ignore or dismiss something (किसी चीज़ को नज़रअंदाज करना या खारिज करना).",
+    "example": "He brushed aside my concerns about the project."
+  },
+  "brush by": {
+    "meaning": "To move past someone quickly, often touching them slightly (किसी के पास से तेजी से गुजरना).",
+    "example": "She brushed by me without saying a word."
+  },
+  "brush down": {
+    "meaning": "To clean or tidy something by brushing (ब्रश करके साफ करना).",
+    "example": "He brushed down his jacket before entering the meeting."
+  },
+  "bring upon": {
+    "meaning": "To cause something unpleasant to happen to someone (किसी पर मुसीबत लाना).",
+    "example": "His careless actions brought disaster upon the company."
+  },
+  "brush off": {
+    "meaning": "To ignore or reject something casually (किसी को हल्के में टालना या अनदेखा करना).",
+    "example": "She brushed off his rude comments and continued her work."
+  },
+  "broaden out": {
+    "meaning": "To expand or widen something (किसी चीज़ को विस्तृत करना).",
+    "example": "His interests broadened out after traveling to different countries."
+  },
+  "brush up": {
+    "meaning": "To improve or refresh knowledge or a skill (अपने कौशल को सुधारना या ताज़ा करना).",
+    "example": "She brushed up on her Spanish before going to Spain."
+  },
+  "bristle with": {
+    "meaning": "To be full of or covered with something (किसी चीज़ से भरा या ढका होना).",
+    "example": "The speech bristled with anger and frustration."
+  },
+  "bubble over": {
+    "meaning": "To be full of excitement or enthusiasm (उत्साह या जोश से भरा होना).",
+    "example": "She was bubbling over with joy after getting the job."
+  },
+  "bugger about": {
+    "meaning": "To waste time doing unimportant things (बेवजह समय बर्बाद करना).",
+    "example": "Stop buggering about and get to work!"
+  },
+  "bucket down": {
+    "meaning": "To rain very heavily (तेज़ बारिश होना).",
+    "example": "It was bucketing down all night, so the roads were flooded."
+  },
+  "buckle down": {
+    "meaning": "To start working seriously (कड़ी मेहनत शुरू करना).",
+    "example": "If you want to pass the exam, you need to buckle down."
+  },
+  "bugger off": {
+    "meaning": "To go away or leave, often rudely (दूर चले जाना, आमतौर पर असभ्य तरीके से).",
+    "example": "He told them to bugger off when they kept bothering him."
+  },
+  "buckle up": {
+    "meaning": "To fasten your seatbelt (सीट बेल्ट लगाना).",
+    "example": "The driver told everyone to buckle up before starting the car."
+  },
+  "buddy up to": {
+    "meaning": "To try to become friendly with someone, often for personal gain (स्वार्थ के लिए किसी से दोस्ती करना).",
+    "example": "He tried to buddy up to the manager for a promotion."
+  },
+  "bugger up": {
+    "meaning": "To ruin or spoil something (किसी चीज़ को खराब करना).",
+    "example": "I buggered up my computer by downloading a virus."
+  },
+  "budge up": {
+    "meaning": "To move slightly to make space for someone (थोड़ा खिसकना ताकि किसी को जगह मिले).",
+    "example": "Can you budge up a little? I need some space to sit."
+  },
+  "build around": {
+    "meaning": "To base something on a particular idea or concept (किसी विचार के आधार पर कुछ विकसित करना).",
+    "example": "The project was built around the idea of sustainability."
+  },
+   "bug off": {
+    "meaning": "To go away or leave, often rudely (दूर चले जाना, आमतौर पर असभ्य तरीके से).",
+    "example": "He told his little brother to bug off when he kept asking questions."
+  },
+  "build in": {
+    "meaning": "To include something as a permanent part (किसी चीज़ को स्थायी रूप से शामिल करना).",
+    "example": "The architect built in extra storage spaces in the design."
+  },
+  "bug out": {
+    "meaning": "To leave quickly, especially due to fear (डर की वजह से जल्दी से निकल जाना).",
+    "example": "When they heard the alarm, they bugged out immediately."
+  },
+  "build on": {
+    "meaning": "To use something as a foundation for further development (आधार बनाकर कुछ और विकसित करना).",
+    "example": "She built on her previous knowledge to improve her research."
+  },
+  "build up to": {
+    "meaning": "To gradually prepare for a big event (धीरे-धीरे किसी बड़े काम के लिए तैयारी करना).",
+    "example": "The excitement built up to the final match."
+  },
+  "build up": {
+    "meaning": "To increase or strengthen something (कुछ बढ़ाना या मजबूत करना).",
+    "example": "She built up her confidence by practicing public speaking."
+  },
+  "bulk out": {
+    "meaning": "To make something bigger or thicker (किसी चीज़ को बड़ा या मोटा बनाना).",
+    "example": "He bulked out his essay with extra details."
+  },
+  "bulk up": {
+    "meaning": "To gain muscle or increase in size (शरीर का आकार या मांसपेशियां बढ़ाना).",
+    "example": "He is bulking up by lifting weights daily."
+  },
+  "bum about": {
+    "meaning": "To spend time lazily without a goal (बिना उद्देश्य के आलस्य में समय बिताना).",
+    "example": "He spent the summer bumming about the beach."
+  },
+  "bum off": {
+    "meaning": "To borrow or take something without returning (किसी से कुछ उधार लेना और वापस न करना).",
+    "example": "He always bums off cigarettes from his friends."
+  },
+  "bum out": {
+    "meaning": "To make someone sad or disappointed (किसी को उदास या निराश करना).",
+    "example": "The bad news really bummed him out."
+  },
+  "bundle up": {
+    "meaning": "To dress warmly in many layers (गर्म कपड़े पहनना).",
+    "example": "She bundled up before going out in the snow."
+  },
+  "bump along": {
+    "meaning": "To progress with difficulty (मुश्किल से आगे बढ़ना).",
+    "example": "The project bumped along despite many challenges."
+  },
+  "bump into": {
+    "meaning": "To meet someone unexpectedly (अचानक किसी से टकरा जाना या मिलना).",
+    "example": "I bumped into my old teacher at the mall."
+  },
+  "bung up": {
+    "meaning": "To block or damage something (किसी चीज़ को अवरुद्ध या क्षतिग्रस्त करना).",
+    "example": "She bunged up her knee while playing football."
+  },
+  "bump off": {
+    "meaning": "To kill someone (किसी को मार डालना).",
+    "example": "The gangster planned to bump off his rival."
+  },
+  "bump up": {
+    "meaning": "To increase something suddenly (अचानक बढ़ाना).",
+    "example": "The company bumped up the prices of their products."
+  },
+  "bunk down": {
+    "meaning": "To sleep somewhere temporarily (किसी जगह अस्थायी रूप से सोना).",
+    "example": "They bunked down in the living room for the night."
+  },
+  "bunk off": {
+    "meaning": "To skip school or work without permission (बिना अनुमति के स्कूल या काम से गायब रहना).",
+    "example": "He bunked off school to go to the beach."
+  },
+  "bunch up": {
+    "meaning": "To gather together in a tight group (किसी समूह को कसकर इकट्ठा करना).",
+    "example": "The students bunched up near the entrance."
+  },
+  "buoy up": {
+    "meaning": "To support or uplift someone's spirits (किसी का उत्साह बढ़ाना).",
+    "example": "His friends buoyed him up during his tough times."
+  },
+  "bundle off": {
+    "meaning": "To send someone away quickly (किसी को जल्दी भेज देना).",
+    "example": "They bundled off the kids to bed early."
+  },
+  "burn down": {
+    "meaning": "To destroy something by fire completely (आग से पूरी तरह नष्ट कर देना).",
+    "example": "The old building burned down last night."
+  },
+  "burn off": {
+    "meaning": "To remove something by heat or exercise (गर्मी या व्यायाम से किसी चीज़ को हटाना).",
+    "example": "He burned off extra calories by running."
+  },
+  "burn up": {
+    "meaning": "To feel extremely hot or cause something to burn (बहुत गर्म महसूस करना या जलाना).",
+    "example": "He was burning up with fever."
+  },
+  "burn out": {
+    "meaning": "To become exhausted from overwork (अत्यधिक काम से थक जाना).",
+    "example": "She burned out after working 16-hour shifts."
+  },
+  "burst in": {
+    "meaning": "To enter a place suddenly and forcefully (अचानक और ज़ोर से किसी जगह में प्रवेश करना).",
+    "example": "He burst in without knocking."
+  },
+  "burst into": {
+    "meaning": "To suddenly begin doing something (अचानक किसी चीज़ की शुरुआत करना).",
+    "example": "She burst into tears after hearing the news."
+  },
+  "burst out": {
+    "meaning": "To suddenly start doing something (अचानक कुछ करना).",
+    "example": "She burst out laughing when she heard the joke."
+  },
+  "bust up": {
+    "meaning": "To break or end something, often a relationship (किसी चीज़ को तोड़ना या समाप्त करना).",
+    "example": "They busted up after years of marriage."
+  },
+  "burst with": {
+    "meaning": "To be full of a strong feeling (किसी भावना से भर जाना).",
+    "example": "She was bursting with excitement before the trip."
+  },
+  "bury away": {
+    "meaning": "To hide something securely (किसी चीज़ को सुरक्षित रूप से छिपाना).",
+    "example": "He buried away his childhood toys in the attic."
+  },
+  "bury in": {
+    "meaning": "To immerse oneself deeply in something (किसी चीज़ में पूरी तरह डूब जाना).",
+    "example": "She buried herself in her studies before exams."
+  },
+  "bust out": {
+    "meaning": "To escape from a place or start something suddenly (किसी जगह से भाग जाना या अचानक शुरू करना).",
+    "example": "The prisoners busted out of jail last night."
+  },
+  "bustle about": {
+    "meaning": "To move around quickly and busily (जल्दी और व्यस्तता से इधर-उधर घूमना).",
+    "example": "She bustled about the kitchen, preparing dinner."
+  },
+  "butt in": {
+    "meaning": "To interrupt someone rudely (बिना अनुमति के बातचीत में दखल देना).",
+    "example": "He always butts in when people are talking."
+  },
+  "buy in": {
+    "meaning": "To agree with or support an idea (किसी विचार से सहमत होना).",
+    "example": "She bought into the company’s vision for the future."
+  },
+  "buy into": {
+    "meaning": "To invest in something, especially a business (किसी व्यवसाय में निवेश करना).",
+    "example": "He bought into a new startup last year."
+  },
+  "butt out": {
+    "meaning": "To stop interfering in someone’s business (किसी के मामले में दखल देना बंद करना).",
+    "example": "This is not your concern, so butt out!"
+  },
+  "buy off": {
+    "meaning": "To bribe someone to gain favor (किसी को रिश्वत देकर मनाना).",
+    "example": "The politician was accused of buying off the officials."
+  },
+  "buy out": {
+    "meaning": "To purchase all of something or someone's share (किसी का पूरा हिस्सा खरीद लेना).",
+    "example": "He bought out his business partner last year."
+  },
+  "button down": {
+    "meaning": "To secure or finalize something (किसी चीज़ को निश्चित या सुरक्षित करना).",
+    "example": "We need to button down the project details before launch."
+  },
+  "butter up": {
+    "meaning": "To flatter someone to gain favor (किसी को खुश करने के लिए चापलूसी करना).",
+    "example": "He buttered up his boss to get a promotion."
+  },
+  "buy out of": {
+    "meaning": "To pay to get out of an obligation (किसी अनुबंध से बाहर निकलने के लिए भुगतान करना).",
+    "example": "He bought out of his contract with the company."
+  },
+  "button up": {
+    "meaning": "To fasten buttons on clothing or to finish something carefully (कपड़ों के बटन लगाना या किसी काम को सावधानीपूर्वक समाप्त करना).",
+    "example": "He buttoned up his coat before stepping out."
+  },
+  "buy up": {
+    "meaning": "To purchase all or most of something (किसी चीज़ को पूरी तरह से खरीद लेना).",
+    "example": "A wealthy investor bought up all the land in the area."
+  },
+  "buzz off": {
+    "meaning": "To go away quickly (जल्दी से चले जाना).",
+    "example": "He told me to buzz off when I asked too many questions."
+  },
+  "buzz about": {
+    "meaning": "To move around quickly and busily (तेजी से इधर-उधर घूमना).",
+    "example": "The workers were buzzing about, preparing for the event."
+  },
+  "call around": {
+    "meaning": "To contact multiple people or places to get information (किसी जानकारी के लिए कई लोगों या जगहों से संपर्क करना).",
+    "example": "She called around to find a good mechanic."
+  },
+  "call by": {
+    "meaning": "To briefly visit someone’s place (किसी के घर या स्थान पर थोड़े समय के लिए जाना).",
+    "example": "I will call by your house on my way home."
+  },
+  "call away": {
+    "meaning": "To ask someone to leave their current activity for something else (किसी को किसी अन्य कार्य के लिए बुलाना).",
+    "example": "He was called away for an emergency meeting."
+  },
+  "call back": {
+    "meaning": "To return a phone call (किसी को दोबारा फोन करना).",
+    "example": "I missed his call, so I need to call him back."
+  },
+  "call for": {
+    "meaning": "To demand or require something (किसी चीज़ की मांग करना या आवश्यकता होना).",
+    "example": "The situation calls for immediate action."
+  },
+  "call down": {
+    "meaning": "To reprimand or scold someone (किसी को डांटना या फटकार लगाना).",
+    "example": "The manager called him down for being late."
+  },
+  "call forth": {
+    "meaning": "To bring something into existence or action (किसी चीज़ को बुलाना या प्रेरित करना).",
+    "example": "The speech called forth strong emotions among the audience."
+  },
+  "call in": {
+    "meaning": "To request someone’s presence or service (किसी को बुलाना या सहायता मांगना).",
+    "example": "We had to call in a specialist to fix the issue."
+  },
+  "call on": {
+    "meaning": "To visit someone formally (औपचारिक रूप से किसी से मिलना).",
+    "example": "I called on my professor for advice."
+  },
+  "call upon": {
+    "meaning": "To officially ask someone to do something (औपचारिक रूप से किसी से कुछ करने को कहना).",
+    "example": "The leader called upon the citizens to stay united."
+  },
+  "call out": {
+    "meaning": "To shout or announce something loudly (जोर से पुकारना या घोषणा करना).",
+    "example": "She called out his name in the crowd."
+  },
+  "call off": {
+    "meaning": "To cancel an event or plan (किसी योजना या कार्यक्रम को रद्द करना).",
+    "example": "The match was called off due to rain."
+  },
+  "call out for": {
+    "meaning": "To ask loudly for help or assistance (मदद के लिए जोर से पुकारना).",
+    "example": "The injured man called out for help."
+  },
+  "call over": {
+    "meaning": "To invite someone to come closer (किसी को पास बुलाना).",
+    "example": "He called me over to show something interesting."
+  },
+  "call round": {
+    "meaning": "To visit someone briefly (किसी से थोड़े समय के लिए मिलने जाना).",
+    "example": "I’ll call round later to see how you're doing."
+  },
+  "call up": {
+    "meaning": "To phone someone or summon for duty (किसी को फोन करना या सेवा के लिए बुलाना).",
+    "example": "She called up her friend to chat."
+  },
+  "calm down": {
+    "meaning": "To become less angry or excited (गुस्सा या उत्तेजना कम करना).",
+    "example": "He took a deep breath to calm down."
+  },
+  "camp out": {
+    "meaning": "To sleep outdoors, usually in a tent (खुले में या टेंट में रात बिताना).",
+    "example": "They decided to camp out by the lake."
+  },
+  "camp up": {
+    "meaning": "To exaggerate behavior or style in a theatrical way (अत्यधिक नाटकीय रूप से व्यवहार करना).",
+    "example": "He camped up his role to make the audience laugh."
+  },
+  "cancel out": {
+    "meaning": "To neutralize or counteract an effect (किसी प्रभाव को बेअसर करना).",
+    "example": "The gains were canceled out by unexpected losses."
+  },
+  "capitalize on": {
+    "meaning": "To take advantage of a situation or opportunity (किसी अवसर का लाभ उठाना).",
+    "example": "He capitalized on his opponent's mistake to win the game."
+  },
+  "carry off": {
+    "meaning": "To succeed in doing something difficult (किसी कठिन कार्य को सफलतापूर्वक पूरा करना).",
+    "example": "She carried off the performance despite her nervousness."
+  },
+  "care for": {
+    "meaning": "To look after or take care of someone or something (किसी की देखभाल करना).",
+    "example": "She cares for her elderly parents at home."
+  },
+  "carry on": {
+    "meaning": "To continue doing something (किसी कार्य को जारी रखना).",
+    "example": "Despite the rain, they carried on with the match."
+  },
+  "carry away": {
+    "meaning": "To become overly excited or emotional (भावनाओं में बह जाना).",
+    "example": "He got carried away while telling the story."
+  },
+  "carry forward": {
+    "meaning": "To continue or progress with something (किसी कार्य को आगे बढ़ाना).",
+    "example": "They carried forward the research started by their predecessors."
+  },
+  "carry out": {
+    "meaning": "To perform or execute a task or plan (किसी कार्य या योजना को अंजाम देना).",
+    "example": "The scientist carried out several experiments."
+  },
+  "cart off": {
+    "meaning": "To remove or take someone/something away, often forcibly (किसी को जबरन हटाना या ले जाना).",
+    "example": "The police carted off the protesters from the street."
+  },
+  "carry over": {
+    "meaning": "To extend something into another time or place (किसी चीज़ को अगले समय तक जारी रखना).",
+    "example": "The discussion was carried over to the next meeting."
+  },
+  "carve out": {
+    "meaning": "To create or establish something through effort (कड़ी मेहनत से कुछ बनाना या हासिल करना).",
+    "example": "She carved out a successful career in journalism."
+  },
+  "carve up": {
+    "meaning": "To divide something into smaller parts (किसी चीज़ को टुकड़ों में बांटना).",
+    "example": "The land was carved up among the heirs."
+  },
+  "cash in": {
+    "meaning": "To exchange something for money (किसी चीज़ को पैसे में बदलना).",
+    "example": "He cashed in his savings bonds to buy a car."
+  },
+  "carry through": {
+    "meaning": "To complete something successfully despite difficulties (कठिनाइयों के बावजूद किसी चीज़ को पूरा करना).",
+    "example": "Her determination carried her through the tough times."
+  },
+  "cash in on": {
+    "meaning": "To take advantage of a situation for profit (किसी अवसर का लाभ उठाकर पैसा कमाना).",
+    "example": "They cashed in on the trend by launching a new product."
+  },
+  "cash up": {
+    "meaning": "To count and check the total money received (दिन के अंत में पैसे की गणना करना).",
+    "example": "The cashier cashed up before closing the store."
+  },
+  "cast off": {
+    "meaning": "To get rid of or remove something (किसी चीज़ से छुटकारा पाना).",
+    "example": "He cast off his old habits and adopted a healthier lifestyle."
+  },
+  "cast about": {
+    "meaning": "To search around for something (किसी चीज़ को खोजने की कोशिश करना).",
+    "example": "He cast about for a new job after quitting his old one."
+  },
+  "cast aside": {
+    "meaning": "To discard or reject something (किसी चीज़ को छोड़ देना या अस्वीकार करना).",
+    "example": "She cast aside her doubts and took the opportunity."
+  },
+  "cast down": {
+    "meaning": "To make someone feel sad or depressed (किसी को दुखी या निराश करना).",
+    "example": "The failure of his project cast him down."
+  },
+  "cast up": {
+    "meaning": "To throw or bring something up, especially to the surface (कुछ सतह पर लाना या उछालना).",
+    "example": "The storm cast up debris onto the shore."
+  },
+  "cast on": {
+    "meaning": "To start knitting by making the first row of stitches (बुनाई की शुरुआत करना).",
+    "example": "She cast on 30 stitches to begin the sweater."
+  },
+  "cast away": {
+    "meaning": "To throw something away or discard it (किसी चीज़ को फेंक देना या त्याग देना).",
+    "example": "He cast away his old clothes after cleaning his wardrobe."
+  },
+  "cast out": {
+    "meaning": "To expel or drive someone/something away (किसी को निकाल देना या बाहर करना).",
+    "example": "The villagers cast out the troublemaker from their community."
+  },
+  "catch at": {
+    "meaning": "To try to grasp or seize something quickly (जल्दी से किसी चीज़ को पकड़ने की कोशिश करना).",
+    "example": "She caught at his arm to stop him from falling."
+  },
+  "catch on": {
+    "meaning": "To become popular or understood (लोकप्रिय या समझ में आना).",
+    "example": "The new fashion trend quickly caught on among teenagers."
+  },
+  "catch up in": {
+    "meaning": "To become involved in something unintentionally (अनजाने में किसी चीज़ में शामिल हो जाना).",
+    "example": "He got caught up in the excitement of the game."
+  },
+  "catch out": {
+    "meaning": "To trick or surprise someone by exposing their mistake (गलती पकड़कर किसी को चौंका देना).",
+    "example": "The reporter caught the politician out with a tough question."
+  },
+  "catch up on": {
+    "meaning": "To do something that was missed or delayed (छूटे हुए कार्य को पूरा करना).",
+    "example": "I need to catch up on my reading this weekend."
+  },
+  "catch up with": {
+    "meaning": "To reach someone or something after lagging behind (किसी को पकड़ लेना या बराबरी कर लेना).",
+    "example": "She ran fast to catch up with her friend."
+  },
+  "catch up": {
+    "meaning": "To reach the same level as others (एक ही स्तर तक पहुँच जाना).",
+    "example": "He studied hard to catch up with the rest of the class."
+  },
+  "cater for": {
+    "meaning": "To provide what is needed or required (आवश्यकता पूरी करना).",
+    "example": "The restaurant caters for both vegetarians and non-vegetarians."
+  },
+  "cater to": {
+    "meaning": "To provide or satisfy the needs and desires of a specific group (किसी विशेष समूह की आवश्यकताओं को पूरा करना).",
+    "example": "The hotel caters to business travelers with its conference facilities."
+  },
+  "cave in": {
+    "meaning": "To collapse or give way under pressure (दबाव में गिर जाना या झुक जाना).",
+    "example": "The roof caved in due to the heavy snowfall."
+  },
+  "chain up": {
+    "meaning": "To restrain or secure something using a chain (किसी को जंजीर से बाँधना या सुरक्षित करना).",
+    "example": "They chained up their bicycles outside the store."
+  },
+  "chalk up": {
+    "meaning": "To achieve or record something as a success or failure (किसी उपलब्धि या असफलता को दर्ज करना).",
+    "example": "The team chalked up another victory in the tournament."
+  },
+  "chalk up to": {
+    "meaning": "To attribute something to a particular cause (किसी चीज़ का कारण मानना).",
+    "example": "He chalked his bad mood up to lack of sleep."
+  },
+  "center around": {
+    "meaning": "To focus or revolve around a particular topic or subject (किसी विशेष विषय के इर्द-गिर्द केंद्रित होना).",
+    "example": "The discussion centered around climate change."
+  },
+  "chance on": {
+    "meaning": "To find or meet something or someone unexpectedly (अचानक से किसी चीज़ या व्यक्ति को ढूँढ़ लेना).",
+    "example": "She chanced on an old diary while cleaning her room."
+  },
+  "chance upon": {
+    "meaning": "To come across something or someone unexpectedly (अचानक किसी से मिलना या कुछ पाना).",
+    "example": "He chanced upon a rare book in the antique shop."
+  },
+  "change around": {
+    "meaning": "To rearrange or alter the order of things (वस्तुओं की व्यवस्था बदलना).",
+    "example": "She changed the furniture around to give the room a new look."
+  },
+  "center on": {
+    "meaning": "To focus primarily on something (मुख्य रूप से किसी चीज़ पर ध्यान केंद्रित करना).",
+    "example": "The movie centers on a young scientist's discoveries."
+  },
+  "change down": {
+    "meaning": "To shift to a lower gear in a vehicle (गाड़ी की गति कम करने के लिए गियर बदलना).",
+    "example": "He changed down to second gear while driving uphill."
+  },
+  "charge up": {
+    "meaning": "To recharge a battery or to energize someone (बैटरी चार्ज करना या किसी को उत्साहित करना).",
+    "example": "I need to charge up my phone before we leave."
+  },
+  "change into": {
+    "meaning": "To transform or switch from one state to another (किसी चीज़ में बदल जाना या कपड़े बदलना).",
+    "example": "She changed into her sportswear before going to the gym."
+  },
+  "chase down": {
+    "meaning": "To pursue and catch someone or something (पीछा करके पकड़ना).",
+    "example": "The detective chased down the suspect after a long pursuit."
+  },
+  "change over": {
+    "meaning": "To switch from one system or method to another (एक प्रणाली से दूसरी प्रणाली में बदलना).",
+    "example": "The company is changing over to a new software system."
+  },
+  "chase off": {
+    "meaning": "To force someone or something to leave (किसी को भगा देना).",
+    "example": "The dog chased off the intruder in the yard."
+  },
+  "chase up": {
+    "meaning": "To follow up on something to ensure progress (किसी चीज़ की प्रगति की जानकारी लेना).",
+    "example": "I'll chase up the supplier about our delayed order."
+  },
+  "change round": {
+    "meaning": "To rearrange things in a different order (चीजों को एक नए क्रम में व्यवस्थित करना).",
+    "example": "She changed the furniture round to give the room a fresh look."
+  },
+  "change up": {
+    "meaning": "To increase the level, intensity, or speed of something (किसी चीज़ की तीव्रता या गति बढ़ाना).",
+    "example": "He changed up his training routine to improve his stamina."
+  },
+  "chat up": {
+    "meaning": "To talk to someone in a flirtatious way (किसी से आकर्षित करने के लिए बातचीत करना).",
+    "example": "He tried to chat up the girl at the party."
+  },
+  "check in": {
+    "meaning": "To register at a hotel, airport, or event (होटल, हवाई अड्डे या कार्यक्रम में पंजीकरण कराना).",
+    "example": "We checked in at the hotel around noon."
+  },
+  "cheat on": {
+    "meaning": "To be unfaithful in a relationship (रिश्ते में धोखा देना).",
+    "example": "She found out that he was cheating on her."
+  },
+  "check into": {
+    "meaning": "To investigate or examine something (किसी चीज़ की जांच करना या होटल में प्रवेश करना).",
+    "example": "The police are checking into the matter."
+  },
+  "check off": {
+    "meaning": "To mark items on a list as completed (सूची में से चीजों को पूरा होने पर चिह्नित करना).",
+    "example": "He checked off all the tasks on his to-do list."
+  },
+  "check out": {
+    "meaning": "To leave a hotel after a stay or to examine something (होटल से चेक आउट करना या किसी चीज़ की जांच करना).",
+    "example": "We checked out of the hotel early in the morning."
+  },
+  "cheer on": {
+    "meaning": "To encourage someone with cheers and support (किसी को उत्साहित करना और समर्थन देना).",
+    "example": "The crowd cheered on the marathon runners."
+  },
+  "cheer up": {
+    "meaning": "To make someone feel happier (किसी को खुश करना).",
+    "example": "She brought him a gift to cheer him up."
+  },
+  "chew on": {
+    "meaning": "To think about something carefully (किसी चीज़ पर ध्यान से विचार करना).",
+    "example": "I'll need some time to chew on this idea before making a decision."
+  },
+  "check over": {
+    "meaning": "To examine something carefully for errors or issues (किसी चीज़ की सावधानीपूर्वक जांच करना).",
+    "example": "He checked over the car before buying it."
+  },
+  "chew out": {
+    "meaning": "To scold someone severely (किसी को कड़ी फटकार लगाना).",
+    "example": "The coach chewed out the players for their poor performance."
+  },
+  "check up": {
+    "meaning": "To examine or verify something (किसी चीज़ की जांच करना या पुष्टि करना).",
+    "example": "I need to check up on the project’s progress."
+  },
+  "check up on": {
+    "meaning": "To investigate or monitor someone or something (किसी की निगरानी करना या उसकी प्रगति की जांच करना).",
+    "example": "She checks up on her elderly parents every weekend."
+  },
+  "chew up": {
+    "meaning": "To damage something by biting or tearing (किसी चीज़ को चबा कर नष्ट करना).",
+    "example": "The dog chewed up my homework."
+  },
+  "chew over": {
+    "meaning": "To think carefully about something (किसी चीज़ पर गहराई से विचार करना).",
+    "example": "Let me chew over your suggestion before making a decision."
+  },
+  "chip in": {
+    "meaning": "To contribute money or effort to something (किसी कार्य में योगदान देना).",
+    "example": "Everyone chipped in to buy a gift for the teacher."
+  },
+  "chicken out": {
+    "meaning": "To decide not to do something out of fear (डर के कारण कुछ न करना).",
+    "example": "He chickened out of the bungee jump at the last minute."
+  },
+  "chill out": {
+    "meaning": "To relax and calm down (आराम करना और शांत रहना).",
+    "example": "You need to chill out and stop worrying so much."
+  },
+  "chime in": {
+    "meaning": "To interrupt or add a comment in a conversation (बातचीत में बीच में बोलना).",
+    "example": "She chimed in with her opinion during the discussion."
+  },
+  "chivvy along": {
+    "meaning": "To urge someone to move or act faster (किसी को तेजी से आगे बढ़ने के लिए प्रेरित करना).",
+    "example": "The teacher chivvied the students along to finish their work."
+  },
+  "choke back": {
+    "meaning": "To suppress or hold back emotions (भावनाओं को दबाना).",
+    "example": "She choked back her tears during the farewell speech."
+  },
+  "chime in with": {
+    "meaning": "To agree or be in harmony with something (किसी चीज़ से सहमत होना या मेल खाना).",
+    "example": "His ideas chime in with the company’s vision."
+  },
+  "choke down": {
+    "meaning": "To force oneself to swallow something difficult (मुश्किल से निगलना).",
+    "example": "He choked down the bitter medicine."
+  },
+  "chip away at": {
+    "meaning": "To gradually weaken or erode something (धीरे-धीरे किसी चीज़ को कमजोर करना).",
+    "example": "Constant criticism chipped away at his confidence."
+  },
+  "choke off": {
+    "meaning": "To stop or cut off something forcefully (किसी चीज़ को जबरदस्ती रोकना).",
+    "example": "The government choked off the illegal trade."
+  },
+  "choke up": {
+    "meaning": "To become emotional and unable to speak (भावुक होकर बोलने में असमर्थ होना).",
+    "example": "He choked up while giving his farewell speech."
+  },
+  "chuck away": {
+    "meaning": "To throw something away or waste an opportunity (किसी चीज़ को फेंक देना या अवसर गंवा देना).",
+    "example": "Don't chuck away your old books; donate them instead."
+  },
+  "chuck in": {
+    "meaning": "To quit or give up something (किसी चीज़ को छोड़ देना).",
+    "example": "He decided to chuck in his job and travel the world."
+  },
+  "chuck up": {
+    "meaning": "To vomit or abandon something (उल्टी करना या किसी चीज़ को छोड़ देना).",
+    "example": "He drank too much and ended up chucking up."
+  },
+  "choose up": {
+    "meaning": "To form teams by choosing members (टीम बनाने के लिए सदस्यों को चुनना).",
+    "example": "We chose up sides before starting the football match."
+  },
+  "chuck out": {
+    "meaning": "To force someone to leave (किसी को बाहर निकालना).",
+    "example": "The landlord chucked out the noisy tenants."
+  },
+  "chop down": {
+    "meaning": "To cut down a tree or something tall (किसी पेड़ या ऊँची चीज़ को काट देना).",
+    "example": "They chopped down the old oak tree in the backyard."
+  },
+  "chop up": {
+    "meaning": "To cut something into small pieces (किसी चीज़ को छोटे टुकड़ों में काटना).",
+    "example": "She chopped up the vegetables for the soup."
+  },
+  "chow down": {
+    "meaning": "To eat enthusiastically (जोश के साथ खाना).",
+    "example": "We chowed down on burgers and fries at the party."
+  },
+  "chum up": {
+    "meaning": "To become friendly with someone (किसी से दोस्ती करना).",
+    "example": "He quickly chummed up with his new classmates."
+  },
+  "churn out": {
+    "meaning": "To produce something in large quantities, often quickly and carelessly (तेजी से बड़ी मात्रा में उत्पादन करना).",
+    "example": "The factory churns out thousands of toys every day."
+  },
+  "churn up": {
+    "meaning": "To disturb or stir something violently (किसी चीज़ को जोरदार तरीके से हिला देना).",
+    "example": "The storm churned up the sea."
+  },
+  "clean down": {
+    "meaning": "To wash or clean something thoroughly (किसी चीज़ को अच्छी तरह से साफ करना).",
+    "example": "After the game, the team cleaned down their equipment."
+  },
+  "clam up": {
+    "meaning": "To suddenly stop talking, often due to nervousness (अचानक चुप हो जाना, आमतौर पर घबराहट के कारण).",
+    "example": "He clammed up when the teacher asked about his homework."
+  },
+  "clean out": {
+    "meaning": "To remove everything from a space or to steal everything (किसी स्थान को पूरी तरह से खाली करना या लूट लेना).",
+    "example": "She cleaned out her closet and donated old clothes."
+  },
+  "clamp down": {
+    "meaning": "To take strict action to stop something (किसी चीज़ को रोकने के लिए कड़ी कार्रवाई करना).",
+    "example": "The government is clamping down on illegal activities."
+  },
+  "clean up": {
+    "meaning": "To make something tidy or remove dirt (किसी चीज़ को साफ-सुथरा बनाना).",
+    "example": "She cleaned up the kitchen after dinner."
+  },
+  "clap out": {
+    "meaning": "To be exhausted or worn out (बहुत थक जाना).",
+    "example": "After running the marathon, he was completely clapped out."
+  },
+  "claw back": {
+    "meaning": "To regain something with effort (कठिनाई से फिर से हासिल करना).",
+    "example": "The company clawed back its market share after a tough year."
+  },
+  "clean up after": {
+    "meaning": "To tidy up after someone else (किसी और के बाद सफाई करना).",
+    "example": "Parents often clean up after their children."
+  },
+  "clear away": {
+    "meaning": "To remove or tidy up things (किसी चीज़ को हटा देना या साफ़ करना).",
+    "example": "The waiter cleared away the empty plates."
+  },
+  "clear up after": {
+    "meaning": "To clean or tidy a place after someone has made a mess (किसी के बाद जगह साफ करना).",
+    "example": "I always have to clear up after my little brother."
+  },
+  "clear off": {
+    "meaning": "To go away quickly (जल्दी से चले जाना).",
+    "example": "He told them to clear off from his property."
+  },
+  "cleave to": {
+    "meaning": "To stick closely to something or remain loyal (किसी चीज़ से दृढ़ता से जुड़े रहना).",
+    "example": "She cleaved to her beliefs despite opposition."
+  },
+  "clear out": {
+    "meaning": "To remove things or leave a place (किसी स्थान को खाली करना या छोड़ देना).",
+    "example": "They cleared out the old furniture before moving in."
+  },
+  "climb down": {
+    "meaning": "To admit a mistake or lower oneself from a high position (गलती स्वीकार करना या ऊँचाई से नीचे आना).",
+    "example": "The politician had to climb down from his previous statement."
+  },
+  "clear up": {
+    "meaning": "To make something clean, organized, or to resolve confusion (साफ करना, व्यवस्थित करना, या किसी समस्या का समाधान करना).",
+    "example": "The weather cleared up in the afternoon."
+  },
+  "clock in": {
+    "meaning": "To record the time of arrival at work (काम पर आने का समय दर्ज करना).",
+    "example": "Employees must clock in before starting their shift."
+  },
+  "clock off": {
+    "meaning": "To record the time of leaving work (काम से निकलने का समय दर्ज करना).",
+    "example": "I clocked off at 6 PM today."
+  },
+  "close off": {
+    "meaning": "To block or restrict access to a place (किसी स्थान को बंद कर देना).",
+    "example": "The police closed off the street due to an accident."
+  },
+  "clock on": {
+    "meaning": "To officially start work by registering the time (औपचारिक रूप से काम शुरू करना).",
+    "example": "She clocked on at exactly 9 AM."
+  },
+   "clock up": {
+    "meaning": "To reach a particular amount or number (किसी विशेष संख्या या मात्रा तक पहुँचना).",
+    "example": "She clocked up 10,000 steps on her fitness tracker today."
+  },
+  "clog up": {
+    "meaning": "To block or slow down movement (किसी चीज़ को रोक देना या धीमा कर देना).",
+    "example": "The sink got clogged up with food waste."
+  },
+  "chose out": {
+    "meaning": "To select something from a group (एक समूह में से किसी चीज़ को चुनना).",
+    "example": "She chose out the best dress for the party."
+  },
+  "close on": {
+    "meaning": "To approach a particular amount or goal (किसी संख्या या लक्ष्य के करीब पहुँचना).",
+    "example": "The company is closing on a major deal."
+  },
+  "close down": {
+    "meaning": "To shut a business or stop operations (किसी व्यवसाय को बंद कर देना).",
+    "example": "The factory closed down due to financial losses."
+  },
+  "close in": {
+    "meaning": "To move closer in a threatening way (धमकी भरे अंदाज में पास आना).",
+    "example": "The police closed in on the suspect."
+  },
+  "close up": {
+    "meaning": "To shut something completely (किसी चीज़ को पूरी तरह से बंद करना).",
+    "example": "The shop closes up at 9 PM."
+  },
+  "clutch at": {
+    "meaning": "To grasp something tightly, often in desperation (किसी चीज़ को कसकर पकड़ना, आमतौर पर घबराहट में).",
+    "example": "He clutched at the railing to avoid falling."
+  },
+  "coast along": {
+    "meaning": "To progress without much effort (बिना अधिक प्रयास के आगे बढ़ना).",
+    "example": "He's just coasting along at work without taking on new responsibilities."
+  },
+  "cloud over": {
+    "meaning": "To become covered with clouds or to look upset (बादलों से ढक जाना या परेशान दिखना).",
+    "example": "Her face clouded over when she heard the bad news."
+  },
+  "cobble together": {
+    "meaning": "To put something together quickly, often without care (जल्दी-जल्दी कुछ तैयार करना, बिना ज्यादा ध्यान दिए).",
+    "example": "They cobbled together a temporary shelter with old wood."
+  },
+  "clown about": {
+    "meaning": "To act in a silly or playful way (मूर्खतापूर्ण या मज़ेदार तरीके से व्यवहार करना).",
+    "example": "The kids were clowning about in the playground."
+  },
+  "cock up": {
+    "meaning": "To mess something up or make a mistake (कोई गलती करना या कुछ बिगाड़ देना).",
+    "example": "He cocked up the whole presentation by forgetting his notes."
+  },
+  "club together": {
+    "meaning": "To contribute money as a group for a shared purpose (सामूहिक रूप से पैसे जोड़ना).",
+    "example": "We clubbed together to buy a gift for our teacher."
+  },
+  "color in": {
+    "meaning": "To fill a drawing with color (चित्र में रंग भरना).",
+    "example": "She colored in the picture with crayons."
+  },
+  "clue in": {
+    "meaning": "To inform someone about something (किसी को किसी चीज़ की जानकारी देना).",
+    "example": "She clued me in about the changes in the project."
+  },
+  "color up": {
+    "meaning": "To become red in the face due to embarrassment or shyness (शर्म या संकोच के कारण लाल होना).",
+    "example": "She colored up when he complimented her."
+  },
+  "come across with": {
+    "meaning": "To provide or deliver what is expected (अपेक्षित चीज़ प्रदान करना).",
+    "example": "He finally came across with the payment."
+  },
+  "comb out": {
+    "meaning": "To remove knots or tangles from hair or to search thoroughly (बालों की गाँठें खोलना या पूरी तरह से छानबीन करना).",
+    "example": "She combed out her hair before the party."
+  },
+  "come after": {
+    "meaning": "To follow or pursue someone (किसी का पीछा करना या उसके बाद आना).",
+    "example": "The police came after the thief."
+  },
+  "come about": {
+    "meaning": "To happen or occur (घटित होना या होना).",
+    "example": "A big change came about in his life after college."
+  },
+  "come along": {
+    "meaning": "To arrive, develop, or accompany someone (पहुँचना, विकसित होना, या किसी के साथ जाना).",
+    "example": "A great job opportunity came along last week."
+  },
+  "come across": {
+    "meaning": "To find or encounter something unexpectedly (अचानक किसी चीज़ से सामना होना).",
+    "example": "I came across an old photo while cleaning my room."
+  },
+  "come at": {
+    "meaning": "To attack or approach aggressively (आक्रामक रूप से हमला करना या आगे बढ़ना).",
+    "example": "The dog came at me, barking loudly."
+  },
+  "come apart": {
+    "meaning": "To break into pieces or separate (टुकड़ों में टूट जाना या अलग हो जाना).",
+    "example": "The old book came apart in my hands."
+  },
+  "come around": {
+    "meaning": "To regain consciousness or change one's opinion (होश में आना या राय बदलना).",
+    "example": "He finally came around to my way of thinking."
+  },
+  "come away": {
+    "meaning": "To leave a place with a particular feeling or result (किसी भावना या परिणाम के साथ किसी स्थान से जाना).",
+    "example": "I came away from the seminar feeling inspired."
+  },
+  "come away with": {
+    "meaning": "To leave a place with something, often an impression or prize (किसी स्थान से किसी चीज़ को लेकर जाना).",
+    "example": "She came away with a lot of new knowledge from the workshop."
+  },
+  "come back": {
+    "meaning": "To return to a place or situation (वापस आना).",
+    "example": "He came back from his trip last night."
+  },
+  "come by": {
+    "meaning": "To obtain or acquire something, often by chance (संयोग से कुछ प्राप्त करना).",
+    "example": "Good jobs are hard to come by these days."
+  },
+  "come down": {
+    "meaning": "To fall, decrease, or move downward (गिरना, कम होना, या नीचे आना).",
+    "example": "The price of petrol has finally come down."
+  },
+  "come back to": {
+    "meaning": "To return to a subject or thought (फिर से किसी विषय पर लौटना).",
+    "example": "Let’s come back to this discussion later."
+  },
+  "come before": {
+    "meaning": "To be more important than something else or to be presented to an authority (किसी और चीज़ से अधिक महत्वपूर्ण होना या किसी अधिकार के सामने आना).",
+    "example": "The case will come before the judge next week."
+  },
+  "come between": {
+    "meaning": "To cause a separation or conflict (अलगाव या संघर्ष पैदा करना).",
+    "example": "Nothing will come between their friendship."
+  },
+  "come forth": {
+    "meaning": "To emerge or appear (सामने आना).",
+    "example": "New evidence has come forth in the investigation."
+  },
+  "come down on": {
+    "meaning": "To criticize or punish someone harshly (किसी की कड़ी आलोचना करना या दंड देना).",
+    "example": "The teacher came down on the students for being late."
+  },
+  "come down to": {
+    "meaning": "To be reduced to the most important point (आखिरकार किसी महत्वपूर्ण बिंदु पर आ जाना).",
+    "example": "It all comes down to hard work and dedication."
+  },
+  "come forth with": {
+    "meaning": "To offer or present something (कुछ प्रस्तुत करना).",
+    "example": "She came forth with a brilliant idea."
+  },
+  "come down with": {
+    "meaning": "To become ill with a sickness (बीमार पड़ना).",
+    "example": "I think I'm coming down with a cold."
+  },
+  "come forward": {
+    "meaning": "To offer help, information, or to volunteer (सहायता, सूचना देने, या स्वयंसेवक बनने के लिए आगे आना).",
+    "example": "Several witnesses came forward with important details."
+  },
+  "come from": {
+    "meaning": "To originate from a place or source (किसी स्थान या स्रोत से आना).",
+    "example": "She comes from a small village in India."
+  },
+  "come in": {
+    "meaning": "To enter a place or arrive (किसी स्थान में प्रवेश करना या पहुँचना).",
+    "example": "She knocked on the door and waited for someone to say ‘come in’."
+  },
+  "come off": {
+    "meaning": "To happen successfully or as planned (सफल होना या योजना के अनुसार होना).",
+    "example": "His plan to start a business didn’t come off as expected."
+  },
+  "come in for": {
+    "meaning": "To receive criticism or praise (आलोचना या प्रशंसा प्राप्त करना).",
+    "example": "The government came in for a lot of criticism over its policies."
+  },
+  "come into": {
+    "meaning": "To inherit something (विरासत में कुछ प्राप्त करना).",
+    "example": "She came into a large fortune after her grandfather passed away."
+  },
+  "come on": {
+    "meaning": "To start functioning or progressing (शुरू होना या प्रगति करना).",
+    "example": "The lights came on automatically when it got dark."
+  },
+  "come of": {
+    "meaning": "To be the result of something (किसी चीज़ का परिणाम होना).",
+    "example": "Nothing good will come of this argument."
+  },
+  "come out": {
+    "meaning": "To become available, visible, or known (उपलब्ध, दिखाई देना, या ज्ञात होना).",
+    "example": "His new book is coming out next month."
+  },
+  "come on to": {
+    "meaning": "To flirt with someone (किसी के प्रति आकर्षण प्रकट करना या छेड़खानी करना).",
+    "example": "He was coming on to her at the party."
+  },
+  "come out of": {
+    "meaning": "To result from a situation (किसी स्थिति से उत्पन्न होना).",
+    "example": "A lot of good ideas came out of that meeting."
+  },
+  "come out with": {
+    "meaning": "To say something suddenly or publish something (अचानक कुछ कहना या प्रकाशित करना).",
+    "example": "She came out with a shocking statement."
+  },
+  "come over": {
+    "meaning": "To visit someone’s place or move from one place to another (किसी के घर आना या एक स्थान से दूसरे स्थान पर जाना).",
+    "example": "Why don’t you come over for dinner?"
+  },
+  "come out in": {
+    "meaning": "To develop spots or a rash on the skin (त्वचा पर दाने या चकत्ते आना).",
+    "example": "He came out in a rash after eating peanuts."
+  },
+   "come through with": {
+    "meaning": "To provide or deliver something as promised (किसी वादे या अपेक्षा को पूरा करना).",
+    "example": "He finally came through with the payment after weeks of delay."
+  },
+  "come to": {
+    "meaning": "To regain consciousness or reach a decision (होश में आना या किसी निर्णय पर पहुँचना).",
+    "example": "She fainted but came to after a few minutes."
+  },
+  "come through": {
+    "meaning": "To survive or succeed in a difficult situation (किसी कठिन स्थिति से निकलना या सफल होना).",
+    "example": "He came through the surgery without any complications."
+  },
+  "come together": {
+    "meaning": "To unite or work together (एकजुट होना या साथ काम करना).",
+    "example": "The community came together to help the flood victims."
+  },
+  "come under": {
+    "meaning": "To experience pressure, attack, or criticism (दबाव, हमले, या आलोचना का सामना करना).",
+    "example": "The company came under fire for its poor working conditions."
+  },
+  "come up": {
+    "meaning": "To appear, arise, or be mentioned (सामने आना, उत्पन्न होना, या चर्चा में आना).",
+    "example": "A new opportunity has come up at work."
+  },
+  "consist of": {
+    "meaning": "To be made up of something (किसी चीज़ से बना होना).",
+    "example": "The team consists of five experienced players."
+  },
+  "contend with": {
+    "meaning": "To deal with a difficult situation or challenge (किसी कठिनाई का सामना करना).",
+    "example": "She had to contend with a lot of stress during her exams."
+  },
+  "contract in": {
+    "meaning": "To formally agree to take part in something (किसी चीज़ में आधिकारिक रूप से भाग लेने के लिए सहमत होना).",
+    "example": "The company contracted in several freelancers for the project."
+  },
+  "cool down": {
+    "meaning": "To become calmer or less hot (शांत होना या ठंडा होना).",
+    "example": "After the argument, he took a walk to cool down."
+  },
+   "contract out": {
+    "meaning": "To arrange for someone else to do work instead of doing it oneself (काम को किसी और को सौंपना).",
+    "example": "The company contracted out the IT services to an external firm."
+  },
+  "contribute to": {
+    "meaning": "To help to cause an event or situation (किसी घटना या स्थिति में योगदान देना).",
+    "example": "Regular exercise contributes to good health."
+  },
+  "coop up": {
+    "meaning": "To confine someone in a small or restricted space (किसी को सीमित जगह में कैद करना).",
+    "example": "The children felt cooped up inside the house during the lockdown."
+  },
+  "cop off": {
+    "meaning": "To start a romantic or sexual relationship with someone (किसी के साथ रोमांटिक या शारीरिक संबंध शुरू करना).",
+    "example": "He copped off with a girl at the party."
+  },
+  "cook up": {
+    "meaning": "To invent a story, excuse, or plan, often dishonestly (कोई बहाना, योजना या कहानी बनाना, अक्सर धोखे से).",
+    "example": "They cooked up an excuse to avoid punishment."
+  },
+  "cop out": {
+    "meaning": "To avoid doing something difficult or taking responsibility (किसी कठिन चीज़ को करने से बचना या ज़िम्मेदारी से भागना).",
+    "example": "He copped out of the project at the last moment."
+  },
+  "copy down": {
+    "meaning": "To write down exactly what someone says or what is written (लिखकर उतारना).",
+    "example": "The students copied down the notes from the board."
+  },
+  "cotton to": {
+    "meaning": "To begin to like or accept something (किसी चीज़ को पसंद करना या अपनाना).",
+    "example": "She quickly cottoned to the idea of working remotely."
+  },
+  "couch in": {
+    "meaning": "To express something in a particular way (किसी बात को एक विशेष तरीके से व्यक्त करना).",
+    "example": "The request was couched in very polite language."
+  },
+  "copy in": {
+    "meaning": "To send a copy of an email to someone (किसी को ईमेल की कॉपी भेजना).",
+    "example": "Please copy me in on all project updates."
+  },
+  "cough up": {
+    "meaning": "To give money unwillingly (अनिच्छा से पैसे देना).",
+    "example": "He had to cough up a huge fine for parking illegally."
+  },
+  "copy out": {
+    "meaning": "To write something exactly as it is written somewhere else (किसी चीज़ को हूबहू नकल करना).",
+    "example": "She copied out the entire poem into her notebook."
+  },
+  "cordon off": {
+    "meaning": "To block an area to prevent people from entering (किसी क्षेत्र को बंद करना ताकि लोग प्रवेश न कर सकें).",
+    "example": "The police cordoned off the crime scene."
+  },
+  "count against": {
+    "meaning": "To be a disadvantage for someone (किसी के खिलाफ जाना या नुकसानदेह होना).",
+    "example": "His lack of experience counted against him in the job interview."
+  },
+  "cosy up to": {
+    "meaning": "To try to be friendly with someone for personal advantage (स्वार्थ के लिए किसी के करीब आना).",
+    "example": "He’s cosying up to the manager to get a promotion."
+  },
+  "count among": {
+    "meaning": "To include someone or something as part of a group (किसी को किसी समूह में शामिल मानना).",
+    "example": "She counts among the best scientists in the country."
+  },
+  "cotton on": {
+    "meaning": "To begin to understand something (धीरे-धीरे समझना).",
+    "example": "It took him a while to cotton on to the joke."
+  },
+  "count down": {
+    "meaning": "To count backwards towards an event (किसी घटना के लिए उलटी गिनती करना).",
+    "example": "We are counting down the days until the holiday."
+  },
+  "count out": {
+    "meaning": "To exclude someone or something (किसी को बाहर करना).",
+    "example": "If you’re playing football, count me out!"
+  },
+  "count for": {
+    "meaning": "To have value or importance (मायने रखना या महत्व होना).",
+    "example": "Hard work counts for a lot in this job."
+  },
+  "count towards": {
+    "meaning": "To be included as part of something (किसी चीज़ में शामिल किया जाना).",
+    "example": "These credits count towards your final grade."
+  },
+  "count in": {
+    "meaning": "To include someone in an activity (किसी को किसी गतिविधि में शामिल करना).",
+    "example": "We are going to the party, count me in!"
+  },
+  "count up": {
+    "meaning": "To add numbers together to find a total (कुल जोड़ना).",
+    "example": "She counted up the votes to find the winner."
+  },
+  "count off": {
+    "meaning": "To say numbers in order while people or things are being counted (संख्या गिनते समय लोगों या चीजों की गिनती करना).",
+    "example": "The soldiers counted off before starting the drill."
+  },
+  "couple with": {
+    "meaning": "To combine with something else (किसी अन्य चीज़ के साथ जुड़ना).",
+    "example": "High inflation, coupled with job losses, has created economic instability."
+  },
+  "count on": {
+    "meaning": "To rely on someone or something (किसी पर निर्भर रहना).",
+    "example": "You can always count on me for help."
+  },
+  "cover for": {
+    "meaning": "To do someone’s work or take their place temporarily (किसी के काम को अस्थायी रूप से करना).",
+    "example": "She covered for her colleague while he was on leave."
+  },
+  "cover over": {
+    "meaning": "To place something over something else to hide or protect it (किसी चीज़ को ढकना).",
+    "example": "He covered over the hole with a wooden plank."
+  },
+  "cover up": {
+    "meaning": "To hide the truth about something (सच्चाई को छिपाना).",
+    "example": "The company tried to cover up the financial scandal."
+  },
+  "crack up": {
+    "meaning": "To burst into laughter or to suffer from a mental breakdown (तेज़ी से हंसना या मानसिक रूप से टूटना).",
+    "example": "The joke was so funny that I cracked up."
+  },
+  "cozy up to": {
+    "meaning": "To try to become friendly with someone for personal gain (स्वार्थ के लिए किसी के करीब जाना).",
+    "example": "He’s trying to cozy up to the boss for a promotion."
+  },
+  "crack down": {
+    "meaning": "To take severe action against something (किसी चीज़ के खिलाफ सख्त कार्रवाई करना).",
+    "example": "The government is cracking down on illegal activities."
+  },
+  "crack on": {
+    "meaning": "To continue working hard on something (किसी काम को तेजी से जारी रखना).",
+    "example": "We need to crack on if we want to meet the deadline."
+  },
+  "cram in": {
+    "meaning": "To try to fit a lot of things into a short period or small space (थोड़े समय या जगह में बहुत कुछ समाने की कोशिश करना).",
+    "example": "She crammed in as much studying as possible before the exam."
+  },
+  "crank out": {
+    "meaning": "To produce something quickly and in large amounts (तेजी से और बड़ी मात्रा में कुछ बनाना).",
+    "example": "The factory cranks out thousands of phones every day."
+  },
+  "crank up": {
+    "meaning": "To increase the intensity or power of something (किसी चीज़ की तीव्रता या शक्ति बढ़ाना).",
+    "example": "They cranked up the volume on the speakers."
+  },
+  "crease up": {
+    "meaning": "To start laughing a lot (बहुत ज्यादा हंसना).",
+    "example": "The comedian's joke made everyone crease up."
+  },
+  "credit with": {
+    "meaning": "To acknowledge someone for an achievement (किसी को उपलब्धि के लिए श्रेय देना).",
+    "example": "He is credited with inventing the telephone."
+  },
+  "creep in": {
+    "meaning": "To gradually appear or become noticeable (धीरे-धीरे दिखाई देना या महसूस होना).",
+    "example": "Errors began to creep in as they rushed the project."
+  },
+  "crap on": {
+    "meaning": "To talk negatively about someone or something (किसी की बुराई करना).",
+    "example": "He always craps on his boss behind his back."
+  },
+  "crash out": {
+    "meaning": "To fall asleep suddenly (अचानक सो जाना).",
+    "example": "After the long trip, he crashed out on the couch."
+  },
+  "crawl with": {
+    "meaning": "To be full of something, especially moving things (किसी चीज़ से भरा होना, खासकर जीव-जंतुओं से).",
+    "example": "The kitchen was crawling with ants."
+  },
+  "cream off": {
+    "meaning": "To take the best part or people from a group (किसी समूह से सबसे अच्छा हिस्सा या लोग लेना).",
+    "example": "Elite universities tend to cream off the best students."
+  },
+  "creep over": {
+    "meaning": "To gradually spread or take over (धीरे-धीरे फैलना).",
+    "example": "A feeling of unease crept over him as he entered the house."
+  },
+  "creep up on": {
+    "meaning": "To approach someone quietly and unnoticed (किसी के पास चुपके से आना).",
+    "example": "Old age creeps up on you before you know it."
+  },
+  "crop up": {
+    "meaning": "To appear unexpectedly (अचानक सामने आना).",
+    "example": "A few problems cropped up during the project."
+  },
+  "cross up": {
+    "meaning": "To confuse or mislead someone (किसी को भ्रमित करना).",
+    "example": "The tricky question crossed up many students."
+  },
+  "crowd around": {
+    "meaning": "To gather closely around someone or something (किसी के चारों ओर इकट्ठा होना).",
+    "example": "The fans crowded around the celebrity for autographs."
+  },
+  "cross off": {
+    "meaning": "To remove someone or something from a list (सूची से किसी को हटाना).",
+    "example": "I crossed off the items I had already bought."
+  },
+  "crowd in": {
+    "meaning": "To come together in a small space (छोटी जगह में इकट्ठा होना).",
+    "example": "The students crowded in to see the experiment."
+  },
+  "cross out": {
+    "meaning": "To draw a line through something to show it is incorrect (गलत दिखाने के लिए रेखा खींचना).",
+    "example": "He crossed out the wrong answer on his test."
+  },
+  "cross over": {
+    "meaning": "To change from one thing to another or move from one side to another (एक चीज़ से दूसरी में बदलना या पार करना).",
+    "example": "The singer crossed over from country music to pop."
+  },
+  "crowd out": {
+    "meaning": "To force someone or something out due to lack of space (जगह की कमी के कारण किसी को बाहर करना).",
+    "example": "New businesses are crowding out small local shops."
+  },
+  "crumple up": {
+    "meaning": "To crush something into a small ball (किसी चीज़ को छोटा और मुड़ा हुआ बना देना).",
+    "example": "He crumpled up the paper and threw it away."
+  },
+  "culminate in": {
+    "meaning": "To reach the highest point or final stage of something (किसी चीज़ के उच्चतम बिंदु या अंतिम चरण तक पहुंचना).",
+    "example": "The argument culminated in a heated debate."
+  },
+  "cry off": {
+    "meaning": "To cancel a plan or promise (कोई योजना या वादा रद्द करना).",
+    "example": "She cried off at the last minute due to illness."
+  },
+  "cry out": {
+    "meaning": "To make a loud sound due to fear, pain, or excitement (डर, दर्द, या उत्साह में ज़ोर से चिल्लाना).",
+    "example": "She cried out in pain when she fell."
+  },
+  "cry out against": {
+    "meaning": "To protest strongly against something (किसी चीज़ के खिलाफ ज़ोरदार विरोध करना).",
+    "example": "The citizens cried out against the new tax laws."
+  },
+  "curse with": {
+    "meaning": "To be afflicted or troubled with something unpleasant (किसी अप्रिय चीज़ से पीड़ित होना).",
+    "example": "He was cursed with bad luck throughout his life."
+  },
+  "curl up": {
+    "meaning": "To sit or lie in a comfortable curved position (आराम से गोल मुद्रा में बैठना या लेटना).",
+    "example": "She curled up on the sofa with a book."
+  },
+  "cry out for": {
+    "meaning": "To urgently need or demand something (किसी चीज़ की तत्काल आवश्यकता होना).",
+    "example": "This house is crying out for renovation."
+  },
+  "cuss out": {
+    "meaning": "To angrily insult or swear at someone (गुस्से में किसी को गाली देना).",
+    "example": "He cussed out the driver who cut him off."
+  },
+  "cuddle up": {
+    "meaning": "To sit or lie close to someone or something for warmth or comfort (आराम या गर्मी के लिए किसी के करीब बैठना या लेटना).",
+    "example": "She cuddled up with her cat on the couch."
+  },
+  "cull from": {
+    "meaning": "To select or gather something from a larger source (किसी बड़ी स्रोत से कुछ चुनना या इकट्ठा करना).",
+    "example": "The best ideas were culled from various research papers."
+  },
+  "cut across": {
+    "meaning": "To go through an area instead of following the usual route (आम रास्ते के बजाय छोटे रास्ते से जाना).",
+    "example": "We cut across the park to save time."
+  },
+  "cut back": {
+    "meaning": "To reduce the amount of something (किसी चीज़ की मात्रा को कम करना).",
+    "example": "The company cut back on expenses due to financial issues."
+  },
+  "cut down": {
+    "meaning": "To reduce something or make it smaller (किसी चीज़ को कम करना या छोटा बनाना).",
+    "example": "He cut down on sugar to lose weight."
+  },
+  "cut in": {
+    "meaning": "To interrupt someone who is speaking or to suddenly move in front of another vehicle (बातचीत में बाधा डालना या गाड़ी के आगे अचानक आना).",
+    "example": "She cut in while I was explaining my point."
+  },
+  "cut off": {
+    "meaning": "To stop the supply of something or to disconnect (किसी चीज़ की आपूर्ति रोकना या कनेक्शन काट देना).",
+    "example": "The phone service was cut off due to non-payment."
+  },
+  "cut into": {
+    "meaning": "To reduce the amount of something or to penetrate (किसी चीज़ की मात्रा को कम करना या उसमें प्रवेश करना).",
+    "example": "Working extra hours cut into his family time."
+  },
+  "cut out": {
+    "meaning": "To remove something or stop doing something (किसी चीज़ को हटाना या करना बंद करना).",
+    "example": "She cut out junk food from her diet."
+  },
+  "cut out for": {
+    "meaning": "To be suited for a particular task or role (किसी विशेष कार्य या भूमिका के लिए उपयुक्त होना).",
+    "example": "He is cut out for a career in acting."
+  },
+   "cut through": {
+    "meaning": "To go through something quickly or directly to save time (किसी चीज़ के बीच से जल्दी या सीधे रास्ते से जाना).",
+    "example": "We cut through the alley to reach the station faster."
+  },
+  "cut up": {
+    "meaning": "To chop something into small pieces or to behave in a silly way (किसी चीज़ को छोटे टुकड़ों में काटना या मज़ाकिया ढंग से व्यवहार करना).",
+    "example": "She cut up the vegetables for the salad."
+  }
   },
   "words": {
-    "happy": "A feeling of joy, pleasure, or contentment.",
-    "fast": "Moving quickly or able to perform at high speed.",
-    "strong": "Having great physical power or mental determination.",
-    "intelligent": "Having the ability to acquire and apply knowledge and skills.",
-    "brave": "Showing courage and willingness to face danger.",
-    "accept": "To agree to take or receive something offered (स्वीकार करना).",
-    "allow": "To permit something to happen or someone to do something (अनुमति देना).",
-    "ask": "To put a question to someone (पूछना).",
-    "believe": "To accept that something is true (विश्वास करना).",
-    "borrow": "To take and use something belonging to someone else with the intention of returning it (उधार लेना).",
-    "bring": "To take or carry someone or something to a place (लाना).",
-    "build": "To construct something by putting parts or materials together (निर्माण करना).",
-    "buy": "To acquire something in exchange for money (खरीदना).",
-    "call": "To communicate with someone by phone or shout to attract their attention (बुलाना).",
-    "cancel": "To decide that something already planned will not happen (रद्द करना).",
-    "change": "To make or become different (बदलना).",
-    "clean": "To remove dirt from something (साफ करना).",
-    "come": "To move towards or arrive at a specified place (आना).",
-    "complain": "To express dissatisfaction or annoyance about something (शिकायत करना).",
-    "cough": "To expel air from the lungs suddenly with a sharp sound (खांसना).",
-    "count": "To determine the total number of items in a group (गिनना).",
-    "cut": "To divide something into pieces with a sharp tool (काटना).",
-    "dance": "To move rhythmically to music (नृत्य करना).",
-    "draw": "To produce a picture or diagram by making lines on a surface (चित्र बनाना).",
-    "drive": "To operate and control the direction and speed of a motor vehicle (चलाना).",
-    "eat": "To put food into the mouth, chew it, and swallow it (खाना).",
-    "explain": "To make something clear or easy to understand (समझाना).",
-    "fall": "To move downward, typically rapidly and freely without control (गिरना).",
-    "fill": "To make something full (भरना).",
-    "find": "To discover something unexpectedly or by searching (ढूँढना).",
-    "fix": "To repair something that is broken or damaged (ठीक करना).",
-    "fly": "To move through the air using wings (उड़ना).",
-    "forget": "To fail to remember (भूलना).",
-    "give": "To present something voluntarily without expecting anything in return (देना).",
-    "go": "To move from one place to another (जाना).",
-    "have": "To possess, own, or hold something (होना).",
-    "hear": "To perceive sound via the ear (सुनना).",
-    "help": "To assist someone in doing something (मदद करना).",
-    "hide": "To put something in a place where it cannot be seen or found (छिपाना).",
-    "hit": "To strike someone or something with force (मारना).",
-    "hold": "To grasp or support something with one's hands (पकड़ना).",
-    "hope": "To desire something to happen or be the case (आशा करना).",
-    "hug": "To hold someone tightly in one's arms, typically to express affection (गले लगाना).",
-    "jump": "To push oneself off a surface and into the air by using the muscles in one's legs and feet (कूदना).",
-    "keep": "To have or retain possession of something (रखना).",
-    "know": "To be aware of through observation, inquiry, or information (जानना).",
-    "laugh": "To make sounds and movements of the face and body that usually express amusement (हंसना).",
-    "learn": "To acquire knowledge or skill through study or experience (सीखना).",
-    "leave": "To go away from a place (छोड़ना).",
-    "lend": "To give something to someone for a short time, expecting it to be returned (उधार देना).",
-    "let": "To allow or permit someone to do something (अनुमति देना).",
-    "like": "To find something agreeable or enjoyable (पसंद करना).",
-    "live": "To remain alive or exist (जीवित रहना).",
-    "look": "To direct one's gaze in a specified direction (देखना).",
-    "lose": "To be deprived of or cease to have something (खोना).",
-    "love": "To feel deep affection for someone (प्रेम करना).",
-    "make": "To create or construct something (बनाना).",
-    "need": "To require something because it is essential or very important (जरूरत होना).",
-    "open": "To move something so that it is no longer closed (खोलना).",
-    "organize": "To arrange systematically; order (व्यवस्थित करना).",
-    "paint": "To cover a surface with color using a brush (रंग करना).",
-    "play": "To engage in an activity for enjoyment and recreation (खेलना).",
-    "put": "To move something into a specified position (रखना).",
-    "read": "To look at and comprehend the meaning of written or printed matter (पढ़ना).",
-    "remember": "To have in or be able to bring to one's mind an awareness of someone or something from the past (याद रखना).",
-    "run": "To move at a speed faster than a walk (दौड़ना).",
-    "say": "To utter words to convey information or express a feeling (कहना).",
-    "see": "To perceive with the eyes (देखना).",
-    "sell": "To give something in exchange for money (बेचना).",
-    "send": "To cause something to go or be taken to a particular destination (भेजना).",
-    "show": "To display or allow to be perceived (दिखाना).",
-    "sing": "To produce musical tones with the voice (गाना).",
-    "sit": "To rest with the body supported by the buttocks or thighs (बैठना).",
-    "sleep": "To rest by closing the eyes and becoming unconscious (सोना).",
-    "speak": "To say words in order to express thoughts or feelings (बोलना).",
-    "spend": "To use money to pay for something (खर्च करना).",
-    "stand": "To be in an upright position on the feet (खड़ा होना).",
-    "study": "To devote time and attention to acquiring knowledge (पढ़ाई करना).",
-    "swim": "To move through water by moving the body or parts of the body (तैरना).",
-    "take": "To acquire possession, control, or occupancy of something (लेना).",
-    "talk": "To express thoughts, feelings, or information by speaking (बात करना).",
-    "teach": "To impart knowledge or instruct someone (पढ़ाना).",
-    "tell": "To communicate information, facts, or news to someone (बताना).",
-    "think": "To have a particular opinion, belief, or idea about someone or something (सोचना).",
-    "throw": "To propel something with force through the air by a movement of the arm and hand (फेंकना).",
-    "touch": "To come into or be in contact with something (छूना).",
-    "travel": "To make a journey, typically of some length (यात्रा करना).",
-    "try": "To make an attempt or effort to do something (प्रयास करना).",
-    "turn": "To move or cause to move in a circular direction around an axis or point (मोड़ना).",
-    "use": "To take, hold, or deploy something as a means of accomplishing a purpose (उपयोग करना).",
-    "wait": "To stay where one is or delay action until a particular time (इंतजार करना).",
-    "wake": "To emerge or cause to emerge from sleep (जागना).",
-    "walk": "To move at a regular pace by lifting and setting down each foot in turn (चलना).",
-    "want": "To have a desire to possess or do something (चाहना).",
-    "watch": "To look at or observe attentively over a period of time (देखना).",
-    "wear": "To have clothing, jewelry, etc., on one's body (पहनना).",
-    "win": "To be successful or victorious in a contest or conflict (जीतना).",
-    "work": "To engage in physical or mental activity in order to achieve a result (काम करना).",
-    "worry": "To give way to anxiety or unease; allow one's mind to dwell on difficulty or troubles (चिंता करना)."
+    "accept": {
+      "meaning": "To agree to take or receive something offered (स्वीकार करना).",
+      "synonyms": ["agree", "approve", "receive", "adopt"],
+      "antonyms": ["reject", "refuse", "decline", "deny"],
+      "example": "She was happy to accept the job offer."
+    },
+    
+  "abandon": {
+    "meaning": "To leave something or someone behind permanently (त्याग देना).",
+    "synonyms": ["leave", "desert", "forsake", "discard"],
+    "antonyms": ["keep", "retain", "hold", "cherish"],
+    "example": "They had to abandon the project due to lack of funds."
+  },
+  "achieve": {
+    "meaning": "To successfully reach a goal or objective (प्राप्त करना).",
+    "synonyms": ["accomplish", "attain", "realize", "fulfill"],
+    "antonyms": ["fail", "lose", "miss", "forfeit"],
+    "example": "She worked hard to achieve her dreams."
+  },
+  "adapt": {
+    "meaning": "To adjust to new conditions (अनुकूल बनाना).",
+    "synonyms": ["adjust", "modify", "conform", "accommodate"],
+    "antonyms": ["resist", "oppose", "reject", "refuse"],
+    "example": "Animals adapt to their environment to survive."
+  },
+  "admire": {
+    "meaning": "To regard with respect or warm approval (प्रशंसा करना).",
+    "synonyms": ["respect", "praise", "appreciate", "honor"],
+    "antonyms": ["dislike", "despise", "hate", "criticize"],
+    "example": "I admire her dedication to her work."
+  },
+  "admit": {
+    "meaning": "To confess or acknowledge something (स्वीकार करना).",
+    "synonyms": ["confess", "acknowledge", "accept", "recognize"],
+    "antonyms": ["deny", "reject", "dispute", "refuse"],
+    "example": "He admitted his mistake and apologized."
+  },
+  "affect": {
+    "meaning": "To influence or have an impact on something (प्रभाव डालना).",
+    "synonyms": ["influence", "alter", "change", "modify"],
+    "antonyms": ["preserve", "maintain", "keep", "sustain"],
+    "example": "The weather can affect our mood."
+  },
+  "agree": {
+    "meaning": "To have the same opinion as someone else (सहमत होना).",
+    "synonyms": ["consent", "approve", "concur", "accept"],
+    "antonyms": ["disagree", "refuse", "oppose", "reject"],
+    "example": "They agreed on the terms of the contract."
+  },
+  "allow": {
+    "meaning": "To permit something to happen or someone to do something (अनुमति देना).",
+    "synonyms": ["permit", "authorize", "approve", "enable"],
+    "antonyms": ["forbid", "prohibit", "restrict", "deny"],
+    "example": "The teacher does not allow students to use phones in class."
+  },
+  "amaze": {
+    "meaning": "To surprise or impress someone greatly (चकित करना).",
+    "synonyms": ["astonish", "shock", "stun", "surprise"],
+    "antonyms": ["bore", "disappoint", "underwhelm", "predict"],
+    "example": "Her talent amazes everyone in the audience."
+  },
+  "analyze": {
+    "meaning": "To examine something in detail (विश्लेषण करना).",
+    "synonyms": ["examine", "evaluate", "study", "assess"],
+    "antonyms": ["ignore", "neglect", "overlook", "avoid"],
+    "example": "Scientists analyze data to find patterns."
+  },
+  "announce": {
+    "meaning": "To make a formal public statement (घोषणा करना).",
+    "synonyms": ["declare", "proclaim", "reveal", "broadcast"],
+    "antonyms": ["conceal", "hide", "suppress", "withhold"],
+    "example": "The company announced a new product launch."
+  },
+  "answer": {
+    "meaning": "To respond to a question (उत्तर देना).",
+    "synonyms": ["respond", "reply", "acknowledge", "react"],
+    "antonyms": ["ask", "question", "ignore", "neglect"],
+    "example": "She answered the teacher’s question correctly."
+  },
+  "apologize": {
+    "meaning": "To express regret for an action (माफी मांगना).",
+    "synonyms": ["regret", "confess", "acknowledge", "repent"],
+    "antonyms": ["blame", "accuse", "deny", "ignore"],
+    "example": "He apologized for his mistake."
+  },
+  "apply": {
+    "meaning": "To make a formal request for something (आवेदन करना).",
+    "synonyms": ["request", "seek", "petition", "submit"],
+    "antonyms": ["withdraw", "reject", "ignore", "neglect"],
+    "example": "She applied for a scholarship."
+  },
+  "appreciate": {
+    "meaning": "To recognize the value of something (सराहना करना).",
+    "synonyms": ["value", "admire", "respect", "acknowledge"],
+    "antonyms": ["criticize", "disregard", "neglect", "dislike"],
+    "example": "I appreciate your help with this project."
+  },
+  "arrange": {
+    "meaning": "To organize or put in order (व्यवस्थित करना).",
+    "synonyms": ["organize", "order", "sort", "coordinate"],
+    "antonyms": ["disrupt", "mess up", "disorder", "scatter"],
+    "example": "She arranged the books neatly on the shelf."
+  },
+  "arrive": {
+    "meaning": "To reach a destination (पहुंचना).",
+    "synonyms": ["reach", "come", "approach", "appear"],
+    "antonyms": ["depart", "leave", "go", "exit"],
+    "example": "The guests arrived at the party on time."
+  },
+  "ask": {
+    "meaning": "To put a question to someone (पूछना).",
+    "synonyms": ["inquire", "question", "request", "seek"],
+    "antonyms": ["answer", "reply", "respond", "tell"],
+    "example": "He asked the teacher about the homework assignment."
+  },
+  "assign": {
+    "meaning": "To give someone a task or duty (सौंपना).",
+    "synonyms": ["allocate", "designate", "appoint", "delegate"],
+    "antonyms": ["remove", "deny", "reject", "exclude"],
+    "example": "The teacher assigned homework to the class."
+  },
+  "assist": {
+    "meaning": "To help or support someone (सहायता करना).",
+    "synonyms": ["help", "aid", "support", "guide"],
+    "antonyms": ["hinder", "obstruct", "block", "oppose"],
+    "example": "The nurse assisted the doctor in surgery."
+  },
+  "assume": {
+    "meaning": "To take for granted without proof (मान लेना).",
+    "synonyms": ["presume", "suppose", "guess", "believe"],
+    "antonyms": ["doubt", "verify", "question", "disprove"],
+    "example": "She assumed he would be at the meeting."
+  },
+  "attach": {
+    "meaning": "To connect or fasten something (संलग्न करना).",
+    "synonyms": ["connect", "join", "fix", "secure"],
+    "antonyms": ["detach", "remove", "separate", "disconnect"],
+    "example": "Please attach the document to the email."
+  },
+  "attract": {
+    "meaning": "To draw interest or attention (आकर्षित करना).",
+    "synonyms": ["draw", "allure", "charm", "entice"],
+    "antonyms": ["repel", "discourage", "deter", "reject"],
+    "example": "The exhibition attracted many visitors."
+  },
+  "abbreviated": {
+    "meaning": "Shortened in length or duration (संक्षिप्त किया हुआ).",
+    "synonyms": ["shortened", "condensed", "reduced", "truncated"],
+    "antonyms": ["extended", "lengthened", "prolonged", "expanded"],
+    "example": "The speech was abbreviated due to time constraints."
+  },
+  "ability": {
+    "meaning": "The power or skill to do something (क्षमता).",
+    "synonyms": ["skill", "capability", "competence", "talent"],
+    "antonyms": ["inability", "incapacity", "weakness", "ineptitude"],
+    "example": "She has the ability to solve complex problems."
+  },
+  "abridge": {
+    "meaning": "To shorten a text without losing its main meaning (संक्षिप्त करना).",
+    "synonyms": ["shorten", "condense", "summarize", "truncate"],
+    "antonyms": ["expand", "lengthen", "extend", "elaborate"],
+    "example": "The book was abridged for younger readers."
+  },
+  "abscond": {
+    "meaning": "To leave hurriedly and secretly, often to avoid arrest (फरार होना).",
+    "synonyms": ["flee", "escape", "run away", "elude"],
+    "antonyms": ["stay", "remain", "face", "surrender"],
+    "example": "The thief tried to abscond with the stolen jewels."
+  },
+  "absolve": {
+    "meaning": "To declare someone free from guilt or blame (निर्दोष ठहराना).",
+    "synonyms": ["forgive", "pardon", "exonerate", "acquit"],
+    "antonyms": ["blame", "condemn", "punish", "accuse"],
+    "example": "The judge absolved him of all charges."
+  },
+  "absorb": {
+    "meaning": "To soak up or take in (शोषण करना).",
+    "synonyms": ["soak", "assimilate", "consume", "engross"],
+    "antonyms": ["release", "emit", "expel", "repel"],
+    "example": "The sponge can absorb a large amount of water."
+  },
+  "abstain": {
+    "meaning": "To refrain from doing something (परहेज करना).",
+    "synonyms": ["refrain", "avoid", "desist", "withhold"],
+    "antonyms": ["indulge", "partake", "embrace", "engage"],
+    "example": "He decided to abstain from alcohol for health reasons."
+  },
+  "abstract": {
+    "meaning": "Existing in thought or as an idea but not having a physical existence (सार).",
+    "synonyms": ["theoretical", "conceptual", "intangible", "philosophical"],
+    "antonyms": ["concrete", "tangible", "physical", "real"],
+    "example": "Her paintings are highly abstract and open to interpretation."
+  },
+  "absurd": {
+    "meaning": "Completely ridiculous or illogical (बेतुका).",
+    "synonyms": ["ridiculous", "nonsensical", "illogical", "preposterous"],
+    "antonyms": ["reasonable", "logical", "sensible", "rational"],
+    "example": "It is absurd to expect a baby to read a book."
+  },
+  "accentuate": {
+    "meaning": "To emphasize or highlight something (प्रमुख बनाना).",
+    "synonyms": ["emphasize", "highlight", "stress", "underline"],
+    "antonyms": ["downplay", "minimize", "conceal", "diminish"],
+    "example": "The designer used lighting to accentuate the beauty of the sculpture."
+  },
+  "acceptable": {
+    "meaning": "Satisfactory and able to be agreed upon (स्वीकार्य).",
+    "synonyms": ["satisfactory", "agreeable", "permissible", "adequate"],
+    "antonyms": ["unacceptable", "unsatisfactory", "inappropriate", "inadequate"],
+    "example": "The proposal was found to be acceptable by the committee."
+  },
+  "acceptance": {
+    "meaning": "The act of agreeing or approving something (स्वीकृति).",
+    "synonyms": ["approval", "agreement", "consent", "recognition"],
+    "antonyms": ["rejection", "denial", "refusal", "disapproval"],
+    "example": "Her acceptance into the university made her parents proud."
+  },
+  "access": {
+    "meaning": "The ability to enter or use something (पहुँच).",
+    "synonyms": ["entry", "admittance", "approach", "availability"],
+    "antonyms": ["denial", "restriction", "blockage", "barrier"],
+    "example": "Only authorized personnel have access to the laboratory."
+  },
+  "accommodate": {
+    "meaning": "To provide space or fulfill someone's needs (समायोजित करना).",
+    "synonyms": ["adjust", "adapt", "house", "serve"],
+    "antonyms": ["reject", "inconvenience", "disregard", "neglect"],
+    "example": "The hotel can accommodate up to 500 guests."
+  },
+  "accommodation": {
+    "meaning": "A place to stay or an arrangement to meet needs (आवास).",
+    "synonyms": ["lodging", "residence", "housing", "arrangement"],
+    "antonyms": ["displacement", "homelessness", "inconvenience", "refusal"],
+    "example": "They booked their accommodation near the beach."
+  },
+  "accomplice": {
+    "meaning": "A person who helps someone commit a crime (सहयोगी अपराधी).",
+    "synonyms": ["partner in crime", "associate", "collaborator", "conspirator"],
+    "antonyms": ["opponent", "enemy", "adversary", "rival"],
+    "example": "The robber’s accomplice was caught by the police."
+  },
+  "accomplish": {
+    "meaning": "To successfully complete a task (पूरा करना).",
+    "synonyms": ["achieve", "complete", "fulfill", "attain"],
+    "antonyms": ["fail", "abandon", "neglect", "quit"],
+    "example": "She was determined to accomplish her goals."
+  },
+  "accord": {
+    "meaning": "An agreement or harmony between people or groups (समझौता).",
+    "synonyms": ["agreement", "harmony", "consensus", "treaty"],
+    "antonyms": ["disagreement", "conflict", "discord", "dissonance"],
+    "example": "The two countries signed a peace accord."
+  },
+  "accost": {
+    "meaning": "To approach and speak to someone aggressively (सामना करना).",
+    "synonyms": ["confront", "approach", "address", "challenge"],
+    "antonyms": ["ignore", "avoid", "shun", "evade"],
+    "example": "The journalist was accosted by an angry protester."
+  },
+  "account": {
+    "meaning": "A report or record of financial transactions or events (खाता / विवरण).",
+    "synonyms": ["record", "report", "description", "narration"],
+    "antonyms": ["misrepresentation", "inaccuracy", "falsification", "ignorance"],
+    "example": "She gave a detailed account of what happened at the event."
+  },
+  "accuracy": {
+    "meaning": "The quality of being correct and precise (शुद्धता).",
+    "synonyms": ["precision", "correctness", "exactness", "truthfulness"],
+    "antonyms": ["error", "inaccuracy", "mistake", "imprecision"],
+    "example": "The scientist checked the accuracy of the experiment results."
+  },
+  "accurate": {
+    "meaning": "Free from errors; exact and correct (सटीक).",
+    "synonyms": ["correct", "precise", "exact", "true"],
+    "antonyms": ["incorrect", "inaccurate", "wrong", "erroneous"],
+    "example": "Her answer was accurate and well-explained."
+  },
+  "acknowledge": {
+    "meaning": "To accept or recognize something as true or valid (स्वीकार करना).",
+    "synonyms": ["accept", "recognize", "admit", "confess"],
+    "antonyms": ["deny", "ignore", "reject", "disregard"],
+    "example": "She refused to acknowledge her mistake."
+  },
+  "acquire": {
+    "meaning": "To gain or obtain something (अर्जित करना).",
+    "synonyms": ["obtain", "gain", "attain", "secure"],
+    "antonyms": ["lose", "forfeit", "surrender", "give up"],
+    "example": "He acquired new skills through practice."
+  },
+  "acquisition": {
+    "meaning": "The act of gaining possession of something (अधिग्रहण).",
+    "synonyms": ["purchase", "gain", "attainment", "procurement"],
+    "antonyms": ["loss", "disposal", "relinquishment", "forfeiture"],
+    "example": "The company's acquisition of new technology improved efficiency."
+  },
+  "acrimony": {
+    "meaning": "Bitterness or harshness in speech or behavior (कटुता).",
+    "synonyms": ["bitterness", "resentment", "hostility", "antagonism"],
+    "antonyms": ["harmony", "kindness", "friendliness", "courtesy"],
+    "example": "Their divorce was filled with acrimony and conflict."
+  },
+  "acute": {
+    "meaning": "Sharp or severe in effect; intense (तीव्र).",
+    "synonyms": ["severe", "sharp", "intense", "critical"],
+    "antonyms": ["mild", "dull", "weak", "insignificant"],
+    "example": "She felt acute pain in her shoulder after the accident."
+  },
+  
+  "adept": {
+    "meaning": "Highly skilled or proficient (निपुण).",
+    "synonyms": ["skilled", "expert", "proficient", "talented"],
+    "antonyms": ["incompetent", "unskilled", "amateur", "inept"],
+    "example": "She is adept at solving complex math problems."
+  },
+  "adhere": {
+    "meaning": "To stick to or follow something strictly (पालन करना).",
+    "synonyms": ["follow", "comply", "cling", "stick"],
+    "antonyms": ["ignore", "disregard", "neglect", "detach"],
+    "example": "Students should adhere to the school rules."
+  },
+  "adjudicate": {
+    "meaning": "To make a formal decision about a dispute (निर्णय देना).",
+    "synonyms": ["judge", "decide", "resolve", "arbitrate"],
+    "antonyms": ["ignore", "bypass", "overlook", "neglect"],
+    "example": "The court will adjudicate the case next week."
+  },
+  "admirable": {
+    "meaning": "Deserving respect and approval (प्रशंसनीय).",
+    "synonyms": ["praiseworthy", "commendable", "respectable", "excellent"],
+    "antonyms": ["shameful", "unworthy", "disgraceful", "dishonorable"],
+    "example": "Her dedication to social work is admirable."
+  },
+  "adorn": {
+    "meaning": "To decorate or enhance the beauty of something (सजाना).",
+    "synonyms": ["decorate", "embellish", "beautify", "enhance"],
+    "antonyms": ["disfigure", "deface", "ruin", "spoil"],
+    "example": "The hall was adorned with beautiful lights for the wedding."
+  },
+  "agreement": {
+    "meaning": "A mutual understanding or arrangement between two or more parties (समझौता).",
+    "synonyms": ["contract", "pact", "accord", "settlement"],
+    "antonyms": ["disagreement", "conflict", "discord", "dispute"],
+    "example": "Both sides reached an agreement after long negotiations."
+  },
+  "ailment": {
+    "meaning": "A minor illness or health disorder (बीमारी).",
+    "synonyms": ["illness", "disease", "disorder", "sickness"],
+    "antonyms": ["health", "wellness", "fitness", "vitality"],
+    "example": "She was suffering from a minor ailment and took some rest."
+  },
+  "alacrity": {
+    "meaning": "Eagerness or willingness to do something quickly (तत्परता).",
+    "synonyms": ["readiness", "enthusiasm", "promptness", "zeal"],
+    "antonyms": ["reluctance", "hesitation", "indifference", "slowness"],
+    "example": "She accepted the invitation with alacrity."
+  },
+  "alchemy": {
+    "meaning": "A medieval practice of transforming matter, often linked to magic (रसविद्या).",
+    "synonyms": ["sorcery", "magic", "witchcraft", "transformation"],
+    "antonyms": ["science", "reality", "fact", "truth"],
+    "example": "Ancient scholars believed in the alchemy of turning lead into gold."
+  },
+  "alienate": {
+    "meaning": "To make someone feel isolated or unwelcome (दूर कर देना).",
+    "synonyms": ["estrange", "isolate", "separate", "exclude"],
+    "antonyms": ["befriend", "include", "unite", "reconcile"],
+    "example": "His rude behavior alienated him from his colleagues."
+  },
+  "ally": {
+    "meaning": "A person or country that helps or supports another (मित्र).",
+    "synonyms": ["partner", "friend", "supporter", "associate"],
+    "antonyms": ["enemy", "opponent", "rival", "foe"],
+    "example": "The two nations became allies during the war."
+  },
+  "alter": {
+    "meaning": "To change or modify something (बदलाव करना).",
+    "synonyms": ["modify", "change", "adjust", "transform"],
+    "antonyms": ["maintain", "preserve", "retain", "keep"],
+    "example": "He altered his diet to lose weight."
+  },
+  "although": {
+    "meaning": "Used to introduce a contrast between two ideas (हालांकि).",
+    "synonyms": ["though", "even though", "whereas", "while"],
+    "antonyms": ["because", "since", "therefore", "hence"],
+    "example": "Although it was raining, they went for a walk."
+  },
+  "altruism": {
+    "meaning": "Selfless concern for the well-being of others (परोपकारिता).",
+    "synonyms": ["selflessness", "generosity", "kindness", "compassion"],
+    "antonyms": ["selfishness", "greed", "egoism", "narcissism"],
+    "example": "His altruism was evident in his charitable work."
+  },
+  "ambiguous": {
+    "meaning": "Having more than one possible meaning; unclear (अस्पष्ट).",
+    "synonyms": ["unclear", "vague", "indefinite", "equivocal"],
+    "antonyms": ["clear", "explicit", "definite", "certain"],
+    "example": "His answer was ambiguous and left everyone confused."
+  },
+  "ambivalence": {
+    "meaning": "Mixed or contradictory feelings about something (द्विधा भाव).",
+    "synonyms": ["uncertainty", "indecision", "confusion", "doubt"],
+    "antonyms": ["certainty", "conviction", "clarity", "assurance"],
+    "example": "She felt ambivalence about moving to a new city."
+  },
+  "amenity": {
+    "meaning": "A feature that makes a place more comfortable or pleasant (सुविधा).",
+    "synonyms": ["facility", "service", "convenience", "comfort"],
+    "antonyms": ["inconvenience", "disadvantage", "discomfort", "hardship"],
+    "example": "The hotel offers many amenities, including a gym and a swimming pool."
+  },
+   "Babble": {
+    "meaning": "To talk rapidly and continuously in a foolish or excited way (बकबक करना).",
+    "synonyms": ["chatter", "prattle", "ramble", "mumble"],
+    "antonyms": ["be quiet", "silence", "hush"],
+    "example": "The baby babbled happily."
+  },
+  "Back": {
+    "meaning": "To support or endorse something or someone (समर्थन करना).",
+    "synonyms": ["support", "endorse", "assist", "uphold"],
+    "antonyms": ["oppose", "disagree", "resist"],
+    "example": "She backed her friend in the argument."
+  },
+  "Backfire": {
+    "meaning": "To have the opposite result of what was intended (उल्टा असर डालना).",
+    "synonyms": ["fail", "boomerang", "misfire"],
+    "antonyms": ["succeed", "work", "achieve"],
+    "example": "His plan to trick his rival backfired."
+  },
+  "Backtrack": {
+    "meaning": "To reverse one's position or go back on a previous decision (वापस जाना).",
+    "synonyms": ["retrace", "withdraw", "revoke"],
+    "antonyms": ["advance", "proceed", "continue"],
+    "example": "He backtracked on his earlier promise."
+  },
+  "Badger": {
+    "meaning": "To repeatedly ask someone for something or persuade them (तंग करना).",
+    "synonyms": ["pester", "nag", "bother"],
+    "antonyms": ["leave alone", "ignore"],
+    "example": "The child badgered his mother for a toy."
+  },
+  "Baffle": {
+    "meaning": "To confuse or perplex someone (हक्का-बक्का करना).",
+    "synonyms": ["confuse", "bewilder", "perplex"],
+    "antonyms": ["clarify", "explain", "enlighten"],
+    "example": "The complex puzzle baffled everyone."
+  },
+  "Bake": {
+    "meaning": "To cook food using dry heat, especially in an oven (सेंकना).",
+    "synonyms": ["cook", "roast", "grill"],
+    "antonyms": ["freeze", "chill"],
+    "example": "She baked a delicious cake for the party."
+  },
+  "Balance": {
+    "meaning": "To keep something steady or in equilibrium (संतुलन बनाना).",
+    "synonyms": ["stabilize", "equalize", "adjust"],
+    "antonyms": ["destabilize", "upset"],
+    "example": "She balanced the books on her head."
+  },
+  "Balk": {
+    "meaning": "To hesitate or be unwilling to accept something (हिचकिचाना).",
+    "synonyms": ["hesitate", "resist", "refuse"],
+    "antonyms": ["accept", "agree", "comply"],
+    "example": "He balked at the high price of the car."
+  },
+  "Ball": {
+    "meaning": "To form something into a round shape (गेंद बनाना).",
+    "synonyms": ["roll", "shape", "form"],
+    "antonyms": ["flatten", "spread"],
+    "example": "He balled up the piece of paper."
+  },
+  "Ballot": {
+    "meaning": "To vote in an election (मतदान करना).",
+    "synonyms": ["vote", "elect", "poll"],
+    "antonyms": ["abstain", "ignore"],
+    "example": "The committee balloted for a new leader."
+  },
+  "Bamboozle": {
+    "meaning": "To trick or deceive someone (चालाकी से बेवकूफ बनाना).",
+    "synonyms": ["deceive", "trick", "fool"],
+    "antonyms": ["clarify", "explain"],
+    "example": "The magician bamboozled the audience with his tricks."
+  },
+  "Ban": {
+    "meaning": "To officially prohibit something (प्रतिबंध लगाना).",
+    "synonyms": ["forbid", "prohibit", "restrict"],
+    "antonyms": ["allow", "permit"],
+    "example": "The government banned smoking in public places."
+  },
+  "Bandage": {
+    "meaning": "To cover a wound with a protective dressing (पट्टी बांधना).",
+    "synonyms": ["wrap", "dress", "bind"],
+    "antonyms": ["uncover", "expose"],
+    "example": "She bandaged his injured hand."
+  },
+  "Bang": {
+    "meaning": "To strike or hit something forcefully (ठोकर मारना).",
+    "synonyms": ["slam", "knock", "pound"],
+    "antonyms": ["tap", "stroke"],
+    "example": "He banged the door shut in anger."
+  },
+  "Banish": {
+    "meaning": "To send someone away as punishment (निर्वासित करना).",
+    "synonyms": ["expel", "exile", "dismiss"],
+    "antonyms": ["welcome", "accept"],
+    "example": "The king banished the traitor from the kingdom."
+  },
+  "Bank": {
+    "meaning": "To deposit or manage money in a financial institution (बैंक में जमा करना).",
+    "synonyms": ["deposit", "save", "finance"],
+    "antonyms": ["withdraw", "spend"],
+    "example": "She banks with a major national institution."
+  },
+  "Bargain": {
+    "meaning": "To negotiate for a better deal or price (मोलभाव करना).",
+    "synonyms": ["negotiate", "haggle", "deal"],
+    "antonyms": ["accept", "agree"],
+    "example": "He bargained with the shopkeeper over the price."
+  },
+  "Bark": {
+    "meaning": "To make a loud, sharp noise like a dog (भौंकना).",
+    "synonyms": ["growl", "howl", "yelp"],
+    "antonyms": ["whisper", "silence"],
+    "example": "The dog barked loudly at the stranger."
+  },
+  "Calculate": {
+    "meaning": "To determine something mathematically (गणना करना).",
+    "synonyms": ["compute", "reckon", "estimate"],
+    "antonyms": ["guess", "neglect"],
+    "example": "She can quickly calculate the total cost."
+  },
+  "Call": {
+    "meaning": "To say something in a loud voice or contact someone via phone (बुलाना, फोन करना).",
+    "synonyms": ["shout", "summon", "dial"],
+    "antonyms": ["whisper", "ignore"],
+    "example": "He decided to call his friend after work."
+  },
+  "Calm": {
+    "meaning": "To make someone or something peaceful and quiet (शांत करना).",
+    "synonyms": ["soothe", "relax", "pacify"],
+    "antonyms": ["agitate", "disturb"],
+    "example": "The music helped calm her nerves."
+  },
+  "Camp": {
+    "meaning": "To set up temporary accommodation outdoors (शिविर लगाना).",
+    "synonyms": ["stay", "lodge", "reside"],
+    "antonyms": ["leave", "vacate"],
+    "example": "We decided to camp near the river."
+  },
+  "Cancel": {
+    "meaning": "To decide that an event will not happen (रद्द करना).",
+    "synonyms": ["revoke", "abolish", "terminate"],
+    "antonyms": ["confirm", "approve"],
+    "example": "They had to cancel the meeting due to bad weather."
+  },
+  "Capture": {
+    "meaning": "To take or seize by force or skill (पकड़ना).",
+    "synonyms": ["seize", "apprehend", "grasp"],
+    "antonyms": ["release", "free"],
+    "example": "The police managed to capture the thief."
+  },
+  "Care": {
+    "meaning": "To feel concern or interest (ध्यान रखना, परवाह करना).",
+    "synonyms": ["concern", "attend", "nurture"],
+    "antonyms": ["ignore", "neglect"],
+    "example": "She takes great care of her plants."
+  },
+  "Carry": {
+    "meaning": "To hold and move something from one place to another (ले जाना).",
+    "synonyms": ["transport", "convey", "deliver"],
+    "antonyms": ["drop", "leave"],
+    "example": "He can carry two bags at once."
+  },
+  "Carve": {
+    "meaning": "To cut something into a specific shape (काटना, तराशना).",
+    "synonyms": ["sculpt", "chisel", "engrave"],
+    "antonyms": ["mend", "join"],
+    "example": "He carved his name into the wood."
+  },
+  "Catch": {
+    "meaning": "To grab or seize something in motion (पकड़ना).",
+    "synonyms": ["grab", "snatch", "intercept"],
+    "antonyms": ["miss", "lose"],
+    "example": "She managed to catch the ball before it hit the ground."
+  },
+  "Cause": {
+    "meaning": "To make something happen (कारण बनना).",
+    "synonyms": ["trigger", "produce", "lead to"],
+    "antonyms": ["prevent", "halt"],
+    "example": "Smoking can cause serious health problems."
+  },
+  "Celebrate": {
+    "meaning": "To acknowledge an event with enjoyment (जश्न मनाना).",
+    "synonyms": ["commemorate", "honor", "rejoice"],
+    "antonyms": ["mourn", "ignore"],
+    "example": "We celebrate Diwali with great enthusiasm."
+  },
+  "Challenge": {
+    "meaning": "To invite someone to compete or question something (चुनौती देना).",
+    "synonyms": ["confront", "contest", "dispute"],
+    "antonyms": ["accept", "agree"],
+    "example": "She decided to challenge the results of the election."
+  },
+  "Change": {
+    "meaning": "To make or become different (बदलाव करना).",
+    "synonyms": ["modify", "transform", "alter"],
+    "antonyms": ["maintain", "keep"],
+    "example": "He changed his hairstyle last week."
+  },
+  "Charge": {
+    "meaning": "To ask for a price or to accuse someone (मूल्य वसूलना, आरोप लगाना).",
+    "synonyms": ["bill", "accuse", "load"],
+    "antonyms": ["discharge", "release"],
+    "example": "The hotel charges $100 per night."
+  },
+  "Chase": {
+    "meaning": "To run after someone or something (पीछा करना).",
+    "synonyms": ["pursue", "follow", "hunt"],
+    "antonyms": ["ignore", "avoid"],
+    "example": "The dog chased the cat across the yard."
+  },
+  "Chat": {
+    "meaning": "To talk casually with someone (बातचीत करना).",
+    "synonyms": ["talk", "converse", "discuss"],
+    "antonyms": ["silence", "ignore"],
+    "example": "They chatted over coffee for hours."
+  },
+  "Cheer": {
+    "meaning": "To shout in support or happiness (उत्साहित करना).",
+    "synonyms": ["applaud", "encourage", "rejoice"],
+    "antonyms": ["boo", "discourage"],
+    "example": "The crowd cheered loudly after the victory."
+  },
+  "Choose": {
+    "meaning": "To select from options (चुनना).",
+    "synonyms": ["pick", "select", "opt"],
+    "antonyms": ["reject", "refuse"],
+    "example": "She chose the blue dress for the party."
+  },
+  "Chop": {
+    "meaning": "To cut into small pieces (काटना).",
+    "synonyms": ["slice", "cut", "dice"],
+    "antonyms": ["combine", "unite"],
+    "example": "He chopped the onions finely before cooking."
+  },
+  "Claim": {
+    "meaning": "To state something as true or demand something (दावा करना).",
+    "synonyms": ["declare", "assert", "demand"],
+    "antonyms": ["deny", "reject"],
+    "example": "He claimed that he had never seen the missing document."
+  },
+  "Clarify": {
+    "meaning": "To make something clear or easier to understand (स्पष्ट करना).",
+    "synonyms": ["explain", "elucidate", "define"],
+    "antonyms": ["confuse", "complicate"],
+    "example": "She asked the teacher to clarify the topic."
+  },
+  "Clash": {
+    "meaning": "To fight or disagree strongly (टकराव होना).",
+    "synonyms": ["conflict", "fight", "dispute"],
+    "antonyms": ["agree", "harmonize"],
+    "example": "The two teams clashed during the final match."
+  },
+  "Clean": {
+    "meaning": "To remove dirt or impurities (साफ करना).",
+    "synonyms": ["wash", "purify", "sanitize"],
+    "antonyms": ["dirty", "pollute"],
+    "example": "She cleaned the kitchen before cooking."
+  },
+  "Clear": {
+    "meaning": "To remove obstacles or doubts (स्पष्ट करना, हटाना).",
+    "synonyms": ["clarify", "erase", "eliminate"],
+    "antonyms": ["obscure", "confuse"],
+    "example": "He cleared his doubts before the exam."
+  },
+  "Climb": {
+    "meaning": "To go up or ascend (चढ़ना).",
+    "synonyms": ["ascend", "scale", "mount"],
+    "antonyms": ["descend", "fall"],
+    "example": "They climbed the mountain early in the morning."
+  },
+  "Cling": {
+    "meaning": "To hold tightly to something (चिपकना).",
+    "synonyms": ["adhere", "grasp", "grip"],
+    "antonyms": ["release", "let go"],
+    "example": "The baby clung to his mother's hand."
+  },
+  "Close": {
+    "meaning": "To shut something (बंद करना).",
+    "synonyms": ["shut", "seal", "terminate"],
+    "antonyms": ["open", "start"],
+    "example": "She closed the door quietly."
+  },
+  "Collapse": {
+    "meaning": "To fall down suddenly (गिर जाना, ढह जाना).",
+    "synonyms": ["fall", "crumble", "break down"],
+    "antonyms": ["rise", "stand"],
+    "example": "The building collapsed during the earthquake."
+  },
+  "Collect": {
+    "meaning": "To gather things together (इकट्ठा करना).",
+    "synonyms": ["gather", "accumulate", "assemble"],
+    "antonyms": ["scatter", "disperse"],
+    "example": "She collects stamps as a hobby."
+  },
+  "Collide": {
+    "meaning": "To crash into something (टकराना).",
+    "synonyms": ["crash", "bump", "hit"],
+    "antonyms": ["avoid", "miss"],
+    "example": "The two cars collided at the intersection."
+  },
+  "Color": {
+    "meaning": "To add color to something (रंग भरना).",
+    "synonyms": ["paint", "dye", "tint"],
+    "antonyms": ["fade", "bleach"],
+    "example": "She colored the drawing beautifully."
+  },
+  "Combat": {
+    "meaning": "To fight or struggle against something (लड़ना, संघर्ष करना).",
+    "synonyms": ["fight", "battle", "resist"],
+    "antonyms": ["surrender", "yield"],
+    "example": "The government is taking measures to combat pollution."
+  },
+  "Combine": {
+    "meaning": "To mix or join things together (मिलाना, जोड़ना).",
+    "synonyms": ["merge", "blend", "unite"],
+    "antonyms": ["separate", "divide"],
+    "example": "She combined different ingredients to make a new dish."
+  },
+  "Comfort": {
+    "meaning": "To make someone feel better (सांत्वना देना, आराम देना).",
+    "synonyms": ["console", "soothe", "reassure"],
+    "antonyms": ["disturb", "upset"],
+    "example": "She comforted her friend after the bad news."
+  },
+  "Command": {
+    "meaning": "To give an order (आदेश देना).",
+    "synonyms": ["order", "direct", "instruct"],
+    "antonyms": ["obey", "request"],
+    "example": "The officer commanded the soldiers to move forward."
+  },
+  "Comment": {
+    "meaning": "To express an opinion about something (टिप्पणी करना).",
+    "synonyms": ["remark", "state", "express"],
+    "antonyms": ["silence", "ignore"],
+    "example": "She commented on the beautiful painting."
+  },
+  "Commit": {
+    "meaning": "To promise or dedicate oneself to something (समर्पित होना, संकल्प लेना).",
+    "synonyms": ["dedicate", "pledge", "devote"],
+    "antonyms": ["neglect", "quit"],
+    "example": "He committed to completing the project on time."
+  },
+  "Communicate": {
+    "meaning": "To share information with others (संचार करना).",
+    "synonyms": ["convey", "express", "talk"],
+    "antonyms": ["silence", "misunderstand"],
+    "example": "They communicate through emails and phone calls."
+  },
+  "Compare": {
+    "meaning": "To examine similarities and differences (तुलना करना).",
+    "synonyms": ["contrast", "evaluate", "match"],
+    "antonyms": ["ignore", "isolate"],
+    "example": "She compared the prices before buying the dress."
+  },
+  "Compete": {
+    "meaning": "To take part in a contest (प्रतिस्पर्धा करना).",
+    "synonyms": ["contest", "vie", "rival"],
+    "antonyms": ["cooperate", "assist"],
+    "example": "Many athletes competed in the championship."
+  },
+  "Complain": {
+    "meaning": "To express dissatisfaction or annoyance about something (शिकायत करना).",
+    "synonyms": ["grumble", "protest", "criticize"],
+    "antonyms": ["praise", "appreciate"],
+    "example": "She complained about the poor service at the restaurant."
+  },
+  "Complete": {
+    "meaning": "To finish something (पूरा करना).",
+    "synonyms": ["finish", "accomplish", "finalize"],
+    "antonyms": ["begin", "start"],
+    "example": "He completed his project before the deadline."
+  },
+  "Comprehend": {
+    "meaning": "To understand something fully (समझना).",
+    "synonyms": ["understand", "grasp", "perceive"],
+    "antonyms": ["misunderstand", "ignore"],
+    "example": "She struggled to comprehend the difficult concept."
+  },
+  "Conceal": {
+    "meaning": "To hide or keep something secret (छुपाना).",
+    "synonyms": ["hide", "cover", "disguise"],
+    "antonyms": ["reveal", "expose"],
+    "example": "He tried to conceal his nervousness."
+  },
+  "Concede": {
+    "meaning": "To admit something is true after initially denying it (स्वीकार करना).",
+    "synonyms": ["admit", "acknowledge", "yield"],
+    "antonyms": ["deny", "reject"],
+    "example": "The losing team conceded defeat gracefully."
+  },
+  "Concentrate": {
+    "meaning": "To focus on something (एकाग्र होना).",
+    "synonyms": ["focus", "pay attention", "think"],
+    "antonyms": ["distract", "neglect"],
+    "example": "She concentrated on her studies for the exam."
+  },
+  "Concern": {
+    "meaning": "To worry or care about something (चिंता करना).",
+    "synonyms": ["worry", "care", "trouble"],
+    "antonyms": ["ignore", "neglect"],
+    "example": "His health concerns his family."
+  },
+  "Conclude": {
+    "meaning": "To bring something to an end (निष्कर्ष निकालना).",
+    "synonyms": ["end", "finish", "finalize"],
+    "antonyms": ["start", "begin"],
+    "example": "The meeting concluded after two hours."
+  },
+  "Condemn": {
+    "meaning": "To express strong disapproval of something (निंदा करना).",
+    "synonyms": ["criticize", "denounce", "blame"],
+    "antonyms": ["praise", "approve"],
+    "example": "The government condemned the violent protests."
+  },
+  "Conduct": {
+    "meaning": "To organize and carry out an activity (संचालित करना).",
+    "synonyms": ["manage", "handle", "direct"],
+    "antonyms": ["mismanage", "neglect"],
+    "example": "The scientist conducted an experiment in the lab."
+  },
+  "Confess": {
+    "meaning": "To admit to something, usually a wrongdoing (स्वीकार करना).",
+    "synonyms": ["admit", "acknowledge", "disclose"],
+    "antonyms": ["deny", "conceal"],
+    "example": "He confessed to stealing the money."
+  },
+  "Confirm": {
+    "meaning": "To establish something as true or correct (पुष्टि करना).",
+    "synonyms": ["verify", "validate", "approve"],
+    "antonyms": ["deny", "invalidate"],
+    "example": "The doctor confirmed the diagnosis."
+  },
+  "Confuse": {
+    "meaning": "To make someone unsure or unable to understand (भ्रमित करना).",
+    "synonyms": ["perplex", "bewilder", "puzzle"],
+    "antonyms": ["clarify", "explain"],
+    "example": "The complicated instructions confused the students."
+  },
+  "Connect": {
+    "meaning": "To join or link things together (जोड़ना).",
+    "synonyms": ["link", "join", "attach"],
+    "antonyms": ["disconnect", "separate"],
+    "example": "She connected the laptop to the Wi-Fi."
+  },
+  "Conquer": {
+    "meaning": "To defeat or take control of something (विजय प्राप्त करना).",
+    "synonyms": ["defeat", "overcome", "subdue"],
+    "antonyms": ["surrender", "lose"],
+    "example": "The army conquered the enemy territory."
+  },
+  "Conserve": {
+    "meaning": "To protect something from harm or destruction (संरक्षित करना).",
+    "synonyms": ["preserve", "save", "protect"],
+    "antonyms": ["waste", "destroy"],
+    "example": "We should conserve water to prevent shortages."
+  },
+  "Consider": {
+    "meaning": "To think about something carefully (विचार करना).",
+    "synonyms": ["think", "reflect", "ponder"],
+    "antonyms": ["ignore", "disregard"],
+    "example": "She considered all options before making a decision."
+  },
+  "Consist": {
+    "meaning": "To be made up of different elements (बना होना).",
+    "synonyms": ["comprise", "include", "contain"],
+    "antonyms": ["exclude", "lack"],
+    "example": "The dish consists of rice and vegetables."
+  },
+  "Console": {
+    "meaning": "To comfort someone who is upset or sad (सांत्वना देना).",
+    "synonyms": ["comfort", "soothe", "reassure"],
+    "antonyms": ["disturb", "upset"],
+    "example": "She consoled her friend after the bad news."
+  },
+  "Conspire": {
+    "meaning": "To plan secretly with others to do something wrong (षड्यंत्र रचना).",
+    "synonyms": ["plot", "scheme", "collude"],
+    "antonyms": ["cooperate", "support"],
+    "example": "The criminals conspired to rob the bank."
+  },
+  "Construct": {
+    "meaning": "To build or create something (निर्माण करना).",
+    "synonyms": ["build", "assemble", "develop"],
+    "antonyms": ["destroy", "demolish"],
+    "example": "They constructed a new bridge over the river."
+  },
+  "Consult": {
+    "meaning": "To seek advice or information from someone (परामर्श करना).",
+    "synonyms": ["ask", "seek advice", "refer"],
+    "antonyms": ["ignore", "neglect"],
+    "example": "He consulted a doctor about his health issue."
+  },
+  "Consume": {
+    "meaning": "To use up or eat something (खपत करना, खाना).",
+    "synonyms": ["eat", "devour", "expend"],
+    "antonyms": ["save", "conserve"],
+    "example": "The fire consumed the entire building."
+  },
+  "Contact": {
+    "meaning": "To communicate with someone (संपर्क करना).",
+    "synonyms": ["reach out", "connect", "call"],
+    "antonyms": ["avoid", "ignore"],
+    "example": "You can contact me via email."
+  },
+  "Contain": {
+    "meaning": "To hold or have something inside (समाहित करना).",
+    "synonyms": ["hold", "include", "enclose"],
+    "antonyms": ["release", "exclude"],
+    "example": "The bottle contains one liter of water."
+  },
+  "Contemplate": {
+    "meaning": "To think deeply about something (चिंतन करना).",
+    "synonyms": ["ponder", "reflect", "consider"],
+    "antonyms": ["ignore", "neglect"],
+    "example": "He contemplated his future career choices."
+  },
+  "Continue": {
+    "meaning": "To keep doing something (जारी रखना).",
+    "synonyms": ["proceed", "persist", "carry on"],
+    "antonyms": ["stop", "halt"],
+    "example": "She continued her studies despite difficulties."
+  },
+  "Contract": {
+    "meaning": "To shrink or make an agreement (सिकुड़ना, अनुबंध करना).",
+    "synonyms": ["shrink", "agree", "compress"],
+    "antonyms": ["expand", "enlarge"],
+    "example": "The metal contracts in cold temperatures."
+  },
+  "Contrast": {
+    "meaning": "To compare two things to highlight differences (विरोधाभास दिखाना).",
+    "synonyms": ["differentiate", "distinguish", "compare"],
+    "antonyms": ["resemble", "match"],
+    "example": "She contrasted the two paintings to show their uniqueness."
+  },
+"Contribute": {
+    "meaning": "To give something, such as money or effort, to help achieve a goal (योगदान देना).",
+    "synonyms": ["donate", "offer", "help"],
+    "antonyms": ["withdraw", "take"],
+    "example": "She contributed money to the charity."
+  },
+  "Control": {
+    "meaning": "To have power over something or someone (नियंत्रण करना).",
+    "synonyms": ["manage", "regulate", "command"],
+    "antonyms": ["release", "lose"],
+    "example": "He controlled his emotions during the argument."
+  },
+  "Convert": {
+    "meaning": "To change from one form to another (परिवर्तित करना).",
+    "synonyms": ["transform", "change", "alter"],
+    "antonyms": ["maintain", "preserve"],
+    "example": "She converted the file into a different format."
+  },
+  "Convey": {
+    "meaning": "To communicate or express something (संचारित करना).",
+    "synonyms": ["express", "communicate", "deliver"],
+    "antonyms": ["withhold", "suppress"],
+    "example": "He conveyed his feelings through a letter."
+  },
+  "Convince": {
+    "meaning": "To persuade someone to do or believe something (मनाना, विश्वास दिलाना).",
+    "synonyms": ["persuade", "assure", "sway"],
+    "antonyms": ["doubt", "dissuade"],
+    "example": "She convinced her parents to let her travel alone."
+  },
+  "Cook": {
+    "meaning": "To prepare food by heating (खाना बनाना).",
+    "synonyms": ["prepare", "bake", "fry"],
+    "antonyms": ["burn", "spoil"],
+    "example": "She cooked a delicious meal for dinner."
+  },
+  "Cooperate": {
+    "meaning": "To work together towards a common goal (सहयोग करना).",
+    "synonyms": ["collaborate", "assist", "support"],
+    "antonyms": ["compete", "oppose"],
+    "example": "The team cooperated to complete the project."
+  },
+  "Coordinate": {
+    "meaning": "To organize activities or tasks efficiently (समन्वय करना).",
+    "synonyms": ["arrange", "manage", "align"],
+    "antonyms": ["disorganize", "confuse"],
+    "example": "She coordinated the event successfully."
+  },
+  "Copy": {
+    "meaning": "To duplicate or imitate something (नकल करना).",
+    "synonyms": ["duplicate", "replicate", "mimic"],
+    "antonyms": ["create", "originate"],
+    "example": "He copied the notes from his friend's book."
+  },
+  "Correct": {
+    "meaning": "To fix mistakes or errors (सुधारना).",
+    "synonyms": ["rectify", "fix", "adjust"],
+    "antonyms": ["worsen", "damage"],
+    "example": "She corrected the spelling mistakes in her essay."
+  },
+  "Correspond": {
+    "meaning": "To communicate or match with something (संबंध रखना, पत्राचार करना).",
+    "synonyms": ["match", "agree", "communicate"],
+    "antonyms": ["differ", "disagree"],
+    "example": "Their statements did not correspond with the facts."
+  },
+  "Cost": {
+    "meaning": "To require payment or effort (कीमत लगना).",
+    "synonyms": ["charge", "expense", "price"],
+    "antonyms": ["save", "profit"],
+    "example": "The new phone costs a lot of money."
+  },
+  "Counsel": {
+    "meaning": "To give advice or guidance (सलाह देना).",
+    "synonyms": ["advise", "guide", "recommend"],
+    "antonyms": ["mislead", "ignore"],
+    "example": "The lawyer counseled his client before the trial."
+  },
+  "Count": {
+    "meaning": "To determine the number of something (गिनना).",
+    "synonyms": ["enumerate", "calculate", "reckon"],
+    "antonyms": ["guess", "ignore"],
+    "example": "She counted the number of apples in the basket."
+  },
+  "Cover": {
+    "meaning": "To place something over another to protect or hide it (ढंकना).",
+    "synonyms": ["shield", "wrap", "conceal"],
+    "antonyms": ["expose", "uncover"],
+    "example": "He covered his face with a scarf."
+  },
+  "Crack": {
+    "meaning": "To break without completely separating (दरार पड़ना).",
+    "synonyms": ["split", "fracture", "shatter"],
+    "antonyms": ["repair", "fix"],
+    "example": "The mirror cracked when it fell."
+  },
+  "Craft": {
+    "meaning": "To create something skillfully (कौशल से बनाना).",
+    "synonyms": ["make", "design", "construct"],
+    "antonyms": ["destroy", "break"],
+    "example": "She crafted a beautiful handmade card."
+  },
+  "Crash": {
+    "meaning": "To collide violently or stop working suddenly (टकराना, गिरना).",
+    "synonyms": ["collide", "smash", "wreck"],
+    "antonyms": ["avoid", "function"],
+    "example": "The car crashed into the wall."
+  },
+  "Crawl": {
+    "meaning": "To move slowly on hands and knees (रेंगना).",
+    "synonyms": ["creep", "drag", "slither"],
+    "antonyms": ["run", "walk"],
+    "example": "The baby crawled across the floor."
+  },
+  "Create": {
+    "meaning": "To bring something into existence (बनाना).",
+    "synonyms": ["produce", "invent", "generate"],
+    "antonyms": ["destroy", "ruin"],
+    "example": "She created a beautiful painting."
+  },
+  "Creep": {
+    "meaning": "To move slowly and quietly (धीरे-धीरे चलना).",
+    "synonyms": ["crawl", "sneak", "slither"],
+    "antonyms": ["run", "march"],
+    "example": "The cat crept up on the mouse."
+  },
+  "Criticize": {
+    "meaning": "To point out faults or shortcomings (आलोचना करना).",
+    "synonyms": ["judge", "blame", "disapprove"],
+    "antonyms": ["praise", "compliment"],
+    "example": "He criticized the movie for its poor script."
+  },
+  "Cross": {
+    "meaning": "To go from one side to another (पार करना).",
+    "synonyms": ["pass", "traverse", "go over"],
+    "antonyms": ["stay", "remain"],
+    "example": "She crossed the road carefully."
+  },
+  "Crush": {
+    "meaning": "To press something with force until it breaks (कुचलना).",
+    "synonyms": ["squash", "smash", "compress"],
+    "antonyms": ["expand", "build"],
+    "example": "He crushed the empty can in his hand."
+  },
+  "Cry": {
+    "meaning": "To shed tears as an expression of emotion (रोना).",
+    "synonyms": ["weep", "sob", "wail"],
+    "antonyms": ["laugh", "smile"],
+    "example": "The child cried after falling down."
+  },
+  "Cultivate": {
+    "meaning": "To prepare land for farming or to develop a skill (खेती करना, विकसित करना).",
+    "synonyms": ["grow", "develop", "nurture"],
+    "antonyms": ["neglect", "abandon"],
+    "example": "He cultivated wheat on his farm."
+  },
+  "Cure": {
+    "meaning": "To heal or make someone healthy (इलाज करना).",
+    "synonyms": ["heal", "treat", "recover"],
+    "antonyms": ["infect", "harm"],
+    "example": "The doctor cured the patient's illness."
+  },
+  "Cut": {
+    "meaning": "To divide something with a sharp tool (काटना).",
+    "synonyms": ["slice", "chop", "trim"],
+    "antonyms": ["join", "attach"],
+    "example": "She cut the paper into small pieces."
+  },
+  "Cycle": {
+    "meaning": "To ride a bicycle or repeat in a pattern (साइकिल चलाना, चक्र पूरा करना).",
+    "synonyms": ["pedal", "rotate", "revolve"],
+    "antonyms": ["stop", "halt"],
+    "example": "He cycles to work every day."
+  },
+  "Apple": {
+    "meaning": "सेब",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "She ate a fresh apple for breakfast."
+  },
+  "Banana": {
+    "meaning": "केला",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Monkeys love eating bananas."
+  },
+  "Mango": {
+    "meaning": "आम",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Mango is my favorite summer fruit."
+  },
+  "Orange": {
+    "meaning": "संतरा",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Oranges are rich in Vitamin C."
+  },
+  "Grapes": {
+    "meaning": "अंगूर",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "She bought a bunch of grapes from the market."
+  },
+  "Pineapple": {
+    "meaning": "अनानास",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Pineapple juice is very refreshing."
+  },
+  "Watermelon": {
+    "meaning": "तरबूज",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Watermelon is perfect for hot summer days."
+  },
+  "Papaya": {
+    "meaning": "पपीता",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Papaya is good for digestion."
+  },
+  "Guava": {
+    "meaning": "अमरूद",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Guavas are rich in fiber and vitamins."
+  },
+  "Strawberry": {
+    "meaning": "स्ट्रॉबेरी",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Strawberries are used to make delicious desserts."
+  },
+  "Blueberry": {
+    "meaning": "ब्लूबेरी",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Blueberries are rich in antioxidants."
+  },
+  "Peach": {
+    "meaning": "आड़ू",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Peaches are delicious when eaten fresh."
+  },
+  "Plum": {
+    "meaning": "बेर",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "She picked a ripe plum from the tree."
+  },
+  "Pomegranate": {
+    "meaning": "अनार",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Pomegranates are good for heart health."
+  },
+  "Coconut": {
+    "meaning": "नारियल",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Coconut water is very hydrating."
+  },
+  "Kiwi": {
+    "meaning": "कीवी",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Kiwi is a great source of Vitamin C."
+  },
+  "Cherry": {
+    "meaning": "चेरी",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Cherries are often used in cakes and desserts."
+  },
+  "Apricot": {
+    "meaning": "खुबानी",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Apricots are rich in fiber."
+  },
+  "Fig": {
+    "meaning": "अंजीर",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Dried figs are a healthy snack."
+  },
+  "Lychee": {
+    "meaning": "लीची",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Lychees are sweet and refreshing."
+  },
+  "Dragon Fruit": {
+    "meaning": "ड्रैगन फ्रूट",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Dragon fruit is popular in smoothies."
+  },
+  "Jackfruit": {
+    "meaning": "कटहल",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Jackfruit is used as a meat substitute in vegan dishes."
+  },
+  "Blackberry": {
+    "meaning": "ब्लैकबेरी",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Blackberries are full of antioxidants."
+  },
+  "Mulberry": {
+    "meaning": "शहतूत",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Mulberries are used in jams and syrups."
+  },
+  "Custard Apple": {
+    "meaning": "सीताफल",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Custard apples are very sweet and tasty."
+  },
+  "Raspberry": {
+    "meaning": "रास्पबेरी",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Raspberries are often used in desserts."
+  },
+  "Starfruit": {
+    "meaning": "कमरख",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Starfruit has a tangy and slightly sweet flavor."
+  },
+  "Persimmon": {
+    "meaning": "तेंदू",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Persimmons taste best when they are fully ripe."
+  },
+  "Gooseberry": {
+    "meaning": "आंवला",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Gooseberries are rich in Vitamin C."
+  },
+  "Tamarind": {
+    "meaning": "इमली",
+    "synonyms": [],
+    "antonyms": [],
+    "example": "Tamarind is commonly used in Indian cuisine."
   }
-}
+  
+  
+  
+  }
+  }
+  
+
+
+    
+  
+
