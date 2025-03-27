@@ -1,3 +1,4 @@
+
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
@@ -8,10 +9,23 @@
     <link rel="stylesheet" href="welcome.css">
 </head>
 <body>
- <div class="top-right">
-        <img src="profile.png" alt="Profile" class="profile-pic">
-        <a href="login.jsp"><button class="logout-btn">Logout</button></a>
+ <!-- P<%
+    HttpSession sessionObj = request.getSession(false);
+    String email = (sessionObj != null) ? (String) sessionObj.getAttribute("email") : null;
+%>
+ rofile and Logout Section -->
+    <header class="header">
+    <div class="left-section">
+        <img src="images/chat.png" alt="Chat" class="chat-pic">
     </div>
+    <div class="right-section">
+        <img src="images/profile.png" alt="Profile" class="profile-pic">
+        <% if (email != null) { %>
+            <p>Welcome<br> <%= email %></p>
+        <% } %>
+        <a href="logout.jsp"><button class="logout-btn">Logout</button></a>
+    </div>
+</header>
 
 
     <div class="chat-container">
@@ -22,6 +36,7 @@
         </div>
         <div id="botReply" class="bot-reply"></div>
     </div>
+    
     <script>
     // Function to send the message to the Flask backend
 function sendMessage() {
