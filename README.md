@@ -1,4 +1,4 @@
-<center># Dictionary chatbot</center>
+# Dictionary chatbot
 
 
 
