@@ -1,0 +1,128 @@
+@charset "UTF-8";
+/* General Page Styling */
+body {
+    background-color: #181818;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    height: 100vh;
+}
+
+/* Chatbot Container - Centered */
+.chat-container {
+    background-color: #2d2d2d;
+    padding: 20px;
+    border-radius: 10px;
+    width: 50vw;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+
+/* Input & Button Section */
+.input-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    height:45px;
+    
+}
+
+.input-container input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3b3b3b;
+    color: white;
+    font-size: 16px;
+}
+
+.input-container button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.input-container button:hover {
+    background-color: #218838;
+}
+
+/* Bot Reply Box */
+.bot-reply {
+    background-color: #3b3b3b;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: left;
+    color:wheat;
+   
+    
+}
+
+/* Profile & Logout Section - Top Right */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #181818;
+}
+
+/* Left Section - Chat Icon */
+.left-section {
+    display: flex;
+    align-items: center;
+}
+
+
+
+/* Right Section - Profile & Logout */
+.right-section {
+    display: flex;
+    align-items: center;
+    margin-right:38px;
+}
+
+.profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 2px solid white;
+}
+
+.logout-btn {
+    background-color: #28a745;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logout-btn:hover {
+    background-color: #218838;
+}
+
+/* Styling for Welcome Text */
+.right-section p {
+    margin: 0 10px;
+    color: white;
+    font-size: 14px;
+}

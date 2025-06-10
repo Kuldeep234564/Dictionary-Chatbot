@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex
+;
+    align-items: center;
+    /* margin-top: 25vh; */
+    border: 1px solid wheat;
+    width: 100vh;
+}
+.heading1{
+	color:wheat;
+}
+.heading2{
+	margin-left:152px;
+}
+
+form {
+    width: 135%;
+    padding: 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: wheat;
+}
+
+input[type="number"],
+input[type="date"],
+select {
+    width: calc(100% - 0px);
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid wheat;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 14px;
+    color:wheat;
+    background-color:#333;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: wheat;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+form select {
+    background-color: #333;
+}
+
+form input:focus,
+form select:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 3px rgba(0, 123, 255, 0.5);
+}
